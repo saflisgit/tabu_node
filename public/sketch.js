@@ -9,7 +9,8 @@ var arrow ;
 function setup() {
     let cnv = createCanvas(windowWidth /4 * 3, windowHeight / 4 * 3);
     cnv.position(windowWidth / 2 - width / 2, windowHeight / 2 - height / 2 - 50);
-    socket = io.connect('http://localhost:3000');
+    let HOST = location.origin.replace(/^http/, 'ws')
+    socket = io.connect(HOST);
     textFont('Georgia');
     socket.on('receiveWord', receiveWord);
 
