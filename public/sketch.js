@@ -36,7 +36,13 @@ function mouseClicked(event) {
 }
 
 function touchStarted(event) {
-    mouseClicked(event);
+    if (mouseX < width && mouseX > width / 3 * 2) {
+        requestWord();
+    }else if(mouseY < height && mouseY > height / 3 * 2){
+        joinRoom();
+    }else if(mouseX > 0 && mouseX < width / 3){
+        hide = !hide;
+    }
   }
 
 function draw() {
