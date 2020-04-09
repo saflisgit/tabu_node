@@ -1,0 +1,8004 @@
+{
+    "words": [
+        {
+            "keyword": "donald",
+            "taboo_words": [
+                "ördek",
+                "koz",
+                "isim",
+                "ilk",
+                "Çırak"
+            ]
+        },
+        {
+            "keyword": "peynir",
+            "taboo_words": [
+                "damak zevki",
+                "Gıda",
+                "İsviçre",
+                "Mandıra",
+                "çedar"
+            ]
+        },
+        {
+            "keyword": "mıknatıs",
+            "taboo_words": [
+                "metal",
+                "yönetmek",
+                "elektrik",
+                "Çubuk",
+                "birlikte"
+            ]
+        },
+        {
+            "keyword": "ortak",
+            "taboo_words": [
+                "Arkadaş",
+                "koca",
+                "kadın eş",
+                "patron",
+                "kafa"
+            ]
+        },
+        {
+            "keyword": "gevrek",
+            "taboo_words": [
+                "çatırtı",
+                "keskin",
+                "taze",
+                "Patates",
+                "ısırmak"
+            ]
+        },
+        {
+            "keyword": "orman",
+            "taboo_words": [
+                "ağaçlar",
+                "orman",
+                "rotaları",
+                "ateş",
+                "hayvanlar"
+            ]
+        },
+        {
+            "keyword": "selamlamak",
+            "taboo_words": [
+                "karşılamak",
+                "Hoşgeldiniz",
+                "adres",
+                "getirmek",
+                "başlangıç"
+            ]
+        },
+        {
+            "keyword": "Cingular",
+            "taboo_words": [
+                "hücre",
+                "telefon",
+                "kablosuz",
+                "ağ",
+                "dolaşmak"
+            ]
+        },
+        {
+            "keyword": "kez kare",
+            "taboo_words": [
+                "New York",
+                "Broadway",
+                "top",
+                "yıl",
+                "insanlar"
+            ]
+        },
+        {
+            "keyword": "ateş",
+            "taboo_words": [
+                "alev",
+                "Sıcak",
+                "Odun",
+                "sıcaklık",
+                "buz"
+            ]
+        },
+        {
+            "keyword": "kâğıt",
+            "taboo_words": [
+                "yazmak",
+                "parça",
+                "kalem",
+                "dolma kalem",
+                "Yazdır"
+            ]
+        },
+        {
+            "keyword": "kış",
+            "taboo_words": [
+                "mevsim",
+                "Noel",
+                "kar",
+                "Aralık",
+                "soğuk"
+            ]
+        },
+        {
+            "keyword": "turuncu tavuk",
+            "taboo_words": [
+                "panda",
+                "ekspres",
+                "Gıda",
+                "pirinç",
+                "erişte"
+            ]
+        },
+        {
+            "keyword": "gözden geçirmek",
+            "taboo_words": [
+                "çözümlemek",
+                "bak",
+                "eleştiri",
+                "Kontrol",
+                "yönetici"
+            ]
+        },
+        {
+            "keyword": "ses",
+            "taboo_words": [
+                "müzik",
+                "ses",
+                "duymak",
+                "konuşma",
+                "kulak"
+            ]
+        },
+        {
+            "keyword": "ezik",
+            "taboo_words": [
+                "kazanan",
+                "Ağrı",
+                "ırmak",
+                "bebek",
+                "son"
+            ]
+        },
+        {
+            "keyword": "teşekkür ederim",
+            "taboo_words": [
+                "Hoşgeldiniz",
+                "bir şey",
+                "tebrik",
+                "tepki",
+                "kibar"
+            ]
+        },
+        {
+            "keyword": "portakal suyu",
+            "taboo_words": [
+                "elma",
+                "İçmek",
+                "C vitamini",
+                "kahvaltı",
+                "küspe"
+            ]
+        },
+        {
+            "keyword": "dan marino",
+            "taboo_words": [
+                "Oyun kurucu",
+                "yunuslar",
+                "Futbol",
+                "star",
+                "gol"
+            ]
+        },
+        {
+            "keyword": "inşaat kağıdı",
+            "taboo_words": [
+                "Sanat",
+                "çocuklar",
+                "okul",
+                "Yapmak",
+                "el sanatları"
+            ]
+        },
+        {
+            "keyword": "dolap",
+            "taboo_words": [
+                "çamaşırlar",
+                "asmak",
+                "yatak odası",
+                "mağaza",
+                "canavar"
+            ]
+        },
+        {
+            "keyword": "seçmek",
+            "taboo_words": [
+                "Seç",
+                "Başlat",
+                "toplamak",
+                "karar ver",
+                "ev"
+            ]
+        },
+        {
+            "keyword": "Yakalayıcı kaleci",
+            "taboo_words": [
+                "Tut",
+                "kâğıtlar",
+                "Klasör",
+                "mağaza",
+                "okul"
+            ]
+        },
+        {
+            "keyword": "Bekle",
+            "taboo_words": [
+                "hat",
+                "zaman",
+                "endişeli",
+                "canı sıkkın",
+                "kuyruk"
+            ]
+        },
+        {
+            "keyword": "Tekila",
+            "taboo_words": [
+                "Meksika",
+                "atış",
+                "alkol",
+                "İçmek",
+                "bar"
+            ]
+        },
+        {
+            "keyword": "gitar",
+            "taboo_words": [
+                "müzik aleti",
+                "tıngırdatmak",
+                "müzik",
+                "akustik",
+                "güçlendirmek için"
+            ]
+        },
+        {
+            "keyword": "fare",
+            "taboo_words": [
+                "kedi",
+                "tuzak",
+                "peynir",
+                "tom ve jerry",
+                "hayvan"
+            ]
+        },
+        {
+            "keyword": "panda",
+            "taboo_words": [
+                "ayı",
+                "ekspres",
+                "Çin yemeği",
+                "Avustralya",
+                "hayvan"
+            ]
+        },
+        {
+            "keyword": "tuzlu su",
+            "taboo_words": [
+                "okyanus",
+                "göl",
+                "arındırmak",
+                "içme",
+                "damak zevki"
+            ]
+        },
+        {
+            "keyword": "erkek kardeş",
+            "taboo_words": [
+                "kız kardeş",
+                "baba",
+                "anne",
+                "kardeş",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "büyük Kanyon",
+            "taboo_words": [
+                "nevada",
+                "büyük delik",
+                "renkler",
+                "Kocaman",
+                "Colorado Nehri"
+            ]
+        },
+        {
+            "keyword": "Metin",
+            "taboo_words": [
+                "İleti",
+                "telefon",
+                "tuş takımı",
+                "tip",
+                "kelimeler"
+            ]
+        },
+        {
+            "keyword": "saatinde",
+            "taboo_words": [
+                "müdürlü",
+                "zaman",
+                "seyahat",
+                "saat",
+                "izlemek"
+            ]
+        },
+        {
+            "keyword": "detay",
+            "taboo_words": [
+                "Dikkat",
+                "dakika",
+                "kesin",
+                "mükemmel",
+                "küçük"
+            ]
+        },
+        {
+            "keyword": "Can sıkıcı",
+            "taboo_words": [
+                "acı verici",
+                "kelimeler",
+                "tekrar et",
+                "çocuklar",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "baskın",
+            "taboo_words": [
+                "kazanmak",
+                "yıkmak",
+                "kenar",
+                "tamamen",
+                "tamamen"
+            ]
+        },
+        {
+            "keyword": "kahvaltı",
+            "taboo_words": [
+                "yemek",
+                "Kahve",
+                "Çay",
+                "ekmek",
+                "hububat"
+            ]
+        },
+        {
+            "keyword": "sürat koşusu",
+            "taboo_words": [
+                "hücre",
+                "telefon",
+                "kablosuz",
+                "ağ",
+                "dolaşmak"
+            ]
+        },
+        {
+            "keyword": "Büyük baba",
+            "taboo_words": [
+                "nesil",
+                "baba",
+                "anne",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "semi-final",
+            "taboo_words": [
+                "eşleşme",
+                "tenis",
+                "destek",
+                "Spor Dalları",
+                "playoff"
+            ]
+        },
+        {
+            "keyword": "Vesika",
+            "taboo_words": [
+                "aile",
+                "resim",
+                "çerçeve",
+                "poz",
+                "Fotoğraf"
+            ]
+        },
+        {
+            "keyword": "korku filmi",
+            "taboo_words": [
+                "korku",
+                "komik",
+                "komedi",
+                "netice",
+                "sahte"
+            ]
+        },
+        {
+            "keyword": "tortilla",
+            "taboo_words": [
+                "taco",
+                "ekmek",
+                "Meksika",
+                "un",
+                "yuvarlak"
+            ]
+        },
+        {
+            "keyword": "basınç",
+            "taboo_words": [
+                "sinirli",
+                "ter",
+                "kalp",
+                "zorunlu",
+                "altında"
+            ]
+        },
+        {
+            "keyword": "dolandırıcı",
+            "taboo_words": [
+                "Yalan",
+                "önde",
+                "fuar",
+                "steroidler",
+                "tahviller"
+            ]
+        },
+        {
+            "keyword": "rachel ray",
+            "taboo_words": [
+                "pişirmek",
+                "göstermek",
+                "televizyon",
+                "öğretme",
+                "otuz"
+            ]
+        },
+        {
+            "keyword": "elektrikli süpürge",
+            "taboo_words": [
+                "elektrik süpürgesi",
+                "halı",
+                "tozlu",
+                "pis",
+                "temiz"
+            ]
+        },
+        {
+            "keyword": "çekiç",
+            "taboo_words": [
+                "tırnak",
+                "duvar",
+                "asmak",
+                "araç",
+                "it"
+            ]
+        },
+        {
+            "keyword": "ninja",
+            "taboo_words": [
+                "kavga",
+                "karate",
+                "mutant",
+                "kaplumbağalar",
+                "siyah kemer"
+            ]
+        },
+        {
+            "keyword": "Savcı",
+            "taboo_words": [
+                "sanık",
+                "mahkeme",
+                "yasa",
+                "hakim",
+                "avukat"
+            ]
+        },
+        {
+            "keyword": "abone ol",
+            "taboo_words": [
+                "gazete",
+                "dergi",
+                "konu",
+                "sipariş",
+                "haftalık"
+            ]
+        },
+        {
+            "keyword": "havuç",
+            "taboo_words": [
+                "Portakal",
+                "sebze",
+                "gözler",
+                "long",
+                "gevrek"
+            ]
+        },
+        {
+            "keyword": "ada",
+            "taboo_words": [
+                "plaj",
+                "kum",
+                "kayıp",
+                "Hawaii",
+                "arazi"
+            ]
+        },
+        {
+            "keyword": "gül",
+            "taboo_words": [
+                "çiçek",
+                "kırmızı",
+                "Aşk",
+                "romantik",
+                "tarih"
+            ]
+        },
+        {
+            "keyword": "kahraman",
+            "taboo_words": [
+                "kayıt etmek",
+                "tanınmış",
+                "film",
+                "kurtarmak",
+                "Roman"
+            ]
+        },
+        {
+            "keyword": "burun deliği",
+            "taboo_words": [
+                "burun",
+                "hapşırık",
+                "koku",
+                "nefes almak",
+                "açılış"
+            ]
+        },
+        {
+            "keyword": "cameron diaz",
+            "taboo_words": [
+                "fiona",
+                "shrek",
+                "sarışın",
+                "aktris",
+                "Mary"
+            ]
+        },
+        {
+            "keyword": "alkol",
+            "taboo_words": [
+                "likör",
+                "bira",
+                "İçmek",
+                "sarhoş",
+                "sıvı"
+            ]
+        },
+        {
+            "keyword": "ev partisi",
+            "taboo_words": [
+                "bar",
+                "apartman",
+                "fıçı",
+                "insanlar",
+                "kalabalık"
+            ]
+        },
+        {
+            "keyword": "böğürtlen",
+            "taboo_words": [
+                "e-mail",
+                "telefon",
+                "seyahat",
+                "bilgisayar",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "marilyn monroe",
+            "taboo_words": [
+                "Hollywood",
+                "sembol",
+                "aktris",
+                "ünlü sahne",
+                "Beyaz elbise"
+            ]
+        },
+        {
+            "keyword": "düzeltme",
+            "taboo_words": [
+                "onarım",
+                "kaza",
+                "el ulağı",
+                "araçlar",
+                "tornavidalar"
+            ]
+        },
+        {
+            "keyword": "zımba",
+            "taboo_words": [
+                "klips",
+                "kâğıt",
+                "birlikte",
+                "bağlamak",
+                "doldurma"
+            ]
+        },
+        {
+            "keyword": "milyarder",
+            "taboo_words": [
+                "bill gates",
+                "para",
+                "nakit",
+                "warren buffett",
+                "yağma"
+            ]
+        },
+        {
+            "keyword": "tavşan ayağı",
+            "taboo_words": [
+                "şans",
+                "batıl inançları olan",
+                "inanç",
+                "sihirli",
+                "servet"
+            ]
+        },
+        {
+            "keyword": "Larry kuşu",
+            "taboo_words": [
+                "boston Celtics",
+                "bekçi",
+                "Basketbol",
+                "star",
+                "ağ"
+            ]
+        },
+        {
+            "keyword": "tartışma",
+            "taboo_words": [
+                "kavga",
+                "öfke",
+                "bağırtı",
+                "kavga",
+                "çift"
+            ]
+        },
+        {
+            "keyword": "yay ve ok",
+            "taboo_words": [
+                "uygulama",
+                "aşk tanrısı",
+                "Aşk",
+                "ateş etmek",
+                "hedef"
+            ]
+        },
+        {
+            "keyword": "Barbekü",
+            "taboo_words": [
+                "ızgara",
+                "dış mekan",
+                "arka bahçe",
+                "weber",
+                "et"
+            ]
+        },
+        {
+            "keyword": "discover",
+            "taboo_words": [
+                "bak",
+                "görmek",
+                "bulmak",
+                "columbus",
+                "kâşif"
+            ]
+        },
+        {
+            "keyword": "kırmızı ıstakoz",
+            "taboo_words": [
+                "restoran",
+                "Deniz ürünleri",
+                "bisküvi",
+                "karides",
+                "balık"
+            ]
+        },
+        {
+            "keyword": "scottie pippen",
+            "taboo_words": [
+                "Chicago Bulls",
+                "ileri",
+                "burun",
+                "star",
+                "michael jordan"
+            ]
+        },
+        {
+            "keyword": "yasal",
+            "taboo_words": [
+                "yasa",
+                "karşısında",
+                "izin",
+                "Tamam",
+                "sağ"
+            ]
+        },
+        {
+            "keyword": "raket",
+            "taboo_words": [
+                "tenis",
+                "isabet",
+                "salıncak",
+                "ağ",
+                "top"
+            ]
+        },
+        {
+            "keyword": "Jack Daniels",
+            "taboo_words": [
+                "viski",
+                "tennessee",
+                "kok",
+                "İçmek",
+                "alkol"
+            ]
+        },
+        {
+            "keyword": "hapşırık",
+            "taboo_words": [
+                "burun",
+                "hasta",
+                "hasta",
+                "biber",
+                "öksürük"
+            ]
+        },
+        {
+            "keyword": "kuzeybatı",
+            "taboo_words": [
+                "zorlu",
+                "Üniversite",
+                "kolej",
+                "ders çalışma",
+                "kabul"
+            ]
+        },
+        {
+            "keyword": "indiana",
+            "taboo_words": [
+                "durum",
+                "İndiana",
+                "aynasız",
+                "Basketbol",
+                "midwest"
+            ]
+        },
+        {
+            "keyword": "parça",
+            "taboo_words": [
+                "turta",
+                "kek",
+                "dilim",
+                "kesir",
+                "matematik"
+            ]
+        },
+        {
+            "keyword": "bavul",
+            "taboo_words": [
+                "seyahat",
+                "havalimanı",
+                "pack",
+                "valiz",
+                "sırt çantası"
+            ]
+        },
+        {
+            "keyword": "lobi",
+            "taboo_words": [
+                "kapıcı",
+                "Giriş",
+                "dilekçe",
+                "savunmak",
+                "ulu"
+            ]
+        },
+        {
+            "keyword": "Pazartesi",
+            "taboo_words": [
+                "Pazar",
+                "Salı",
+                "günler",
+                "iki",
+                "Havva"
+            ]
+        },
+        {
+            "keyword": "güzel",
+            "taboo_words": [
+                "Kadın",
+                "beautiful.",
+                "fuar",
+                "görünüyor",
+                "yüz"
+            ]
+        },
+        {
+            "keyword": "teyze",
+            "taboo_words": [
+                "kız kardeş",
+                "baba",
+                "anne",
+                "kardeş",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "modern",
+            "taboo_words": [
+                "new",
+                "yaş",
+                "çağ",
+                "Antik",
+                "Tarih"
+            ]
+        },
+        {
+            "keyword": "biber",
+            "taboo_words": [
+                "tuz",
+                "shaker",
+                "hapşırık",
+                "restoran",
+                "siyah"
+            ]
+        },
+        {
+            "keyword": "gelenek",
+            "taboo_words": [
+                "ayin",
+                "kültür",
+                "tekrar et",
+                "zaman",
+                "her"
+            ]
+        },
+        {
+            "keyword": "sis",
+            "taboo_words": [
+                "bulutlar",
+                "görme",
+                "vizyon",
+                "savaş",
+                "blok"
+            ]
+        },
+        {
+            "keyword": "okul otobüsü",
+            "taboo_words": [
+                "Sarı",
+                "taşımacılık",
+                "çocuklar",
+                "çocuklar",
+                "tekerlekler"
+            ]
+        },
+        {
+            "keyword": "yüzük parmağı",
+            "taboo_words": [
+                "başparmak",
+                "parmak",
+                "el",
+                "ayak parmağı",
+                "indeks"
+            ]
+        },
+        {
+            "keyword": "güneşlik",
+            "taboo_words": [
+                "şapka",
+                "golf",
+                "Güneş",
+                "giyinmek",
+                "kafa"
+            ]
+        },
+        {
+            "keyword": "çiftçi",
+            "taboo_words": [
+                "Süt",
+                "inek",
+                "hayvanlar",
+                "ahır",
+                "Gıda"
+            ]
+        },
+        {
+            "keyword": "sıra",
+            "taboo_words": [
+                "iş",
+                "üst",
+                "ders çalışma",
+                "ofis",
+                "kâğıtlar"
+            ]
+        },
+        {
+            "keyword": "Palmiye ağaçları",
+            "taboo_words": [
+                "Hawaii",
+                "tatil",
+                "zemin",
+                "meyve",
+                "el"
+            ]
+        },
+        {
+            "keyword": "tavşan",
+            "taboo_words": [
+                "uzun kulaklar",
+                "atlama",
+                "tavşan",
+                "hayvan",
+                "böcek tavşan"
+            ]
+        },
+        {
+            "keyword": "çeyrek",
+            "taboo_words": [
+                "yirmi beş",
+                "kuruş",
+                "nikel",
+                "on sent",
+                "değişiklik"
+            ]
+        },
+        {
+            "keyword": "susam",
+            "taboo_words": [
+                "tavuk",
+                "baharat",
+                "Büyük kuş",
+                "Baharat",
+                "damak zevki"
+            ]
+        },
+        {
+            "keyword": "özgürlük",
+            "taboo_words": [
+                "yüzük",
+                "seçim",
+                "demokrasi",
+                "Amerika",
+                "özgürlük"
+            ]
+        },
+        {
+            "keyword": "gökada",
+            "taboo_words": [
+                "Güneş",
+                "sistem",
+                "Uzay",
+                "Dünya",
+                "Samanyolu"
+            ]
+        },
+        {
+            "keyword": "tel",
+            "taboo_words": [
+                "elektrik",
+                "fiş",
+                "güç",
+                "pil",
+                "bilgisayar"
+            ]
+        },
+        {
+            "keyword": "Beyaz Saray",
+            "taboo_words": [
+                "Devlet Başkanı",
+                "ev",
+                "hayatları",
+                "bina",
+                "Washington DC."
+            ]
+        },
+        {
+            "keyword": "Eskimo kulübesi",
+            "taboo_words": [
+                "Eskimo",
+                "buz",
+                "antarktika",
+                "canlı",
+                "ev"
+            ]
+        },
+        {
+            "keyword": "esnemek",
+            "taboo_words": [
+                "uykulu",
+                "yorgun",
+                "kestirme",
+                "ağız",
+                "geniş"
+            ]
+        },
+        {
+            "keyword": "Vali",
+            "taboo_words": [
+                "durum",
+                "temsilci",
+                "Önder",
+                "her biri",
+                "seçilmiş"
+            ]
+        },
+        {
+            "keyword": "mozart",
+            "taboo_words": [
+                "piyano",
+                "çembalo",
+                "Avusturya",
+                "salzburg",
+                "müzik"
+            ]
+        },
+        {
+            "keyword": "en iyi adam",
+            "taboo_words": [
+                "düğün",
+                "evlilik",
+                "hizmetçi onur",
+                "konuşma",
+                "sağdıçlar"
+            ]
+        },
+        {
+            "keyword": "time-out",
+            "taboo_words": [
+                "gecikme",
+                "Dur",
+                "Spor Dalları",
+                "oyun",
+                "Koç"
+            ]
+        },
+        {
+            "keyword": "Tenis ayakkabıları",
+            "taboo_words": [
+                "Jimnastik",
+                "Spor ayakkabı",
+                "çalışan",
+                "ayaklar",
+                "giyinmek"
+            ]
+        },
+        {
+            "keyword": "lcd",
+            "taboo_words": [
+                "televizyon",
+                "plazma",
+                "projeksiyon",
+                "inç",
+                "görünüm"
+            ]
+        },
+        {
+            "keyword": "lisans",
+            "taboo_words": [
+                "sürücüler",
+                "belge",
+                "yasal",
+                "kâğıt",
+                "resmi"
+            ]
+        },
+        {
+            "keyword": "balayı",
+            "taboo_words": [
+                "vegas",
+                "evlilik",
+                "tatil",
+                "seyahat",
+                "acayip"
+            ]
+        },
+        {
+            "keyword": "çıngıraklı yılan",
+            "taboo_words": [
+                "hayvan",
+                "long",
+                "kobra",
+                "zehir",
+                "zehir"
+            ]
+        },
+        {
+            "keyword": "naber",
+            "taboo_words": [
+                "tebrik",
+                "Merhaba",
+                "Selam",
+                "iş",
+                "sen"
+            ]
+        },
+        {
+            "keyword": "kahkaha",
+            "taboo_words": [
+                "komik",
+                "şaka",
+                "bilmece",
+                "ağız",
+                "anlatır"
+            ]
+        },
+        {
+            "keyword": "terlik",
+            "taboo_words": [
+                "sandalet",
+                "ayakkabı",
+                "ayaklar",
+                "kum",
+                "giyinmek"
+            ]
+        },
+        {
+            "keyword": "tüketici",
+            "taboo_words": [
+                "kullanıcı",
+                "ürün",
+                "müşteri",
+                "seyirci",
+                "marka"
+            ]
+        },
+        {
+            "keyword": "tatlı",
+            "taboo_words": [
+                "sonra",
+                "akşam yemegi",
+                "yemek",
+                "tatlı",
+                "çikolata"
+            ]
+        },
+        {
+            "keyword": "zürafa",
+            "taboo_words": [
+                "boyun",
+                "uzun boylu",
+                "Sarı",
+                "ağaç",
+                "safari"
+            ]
+        },
+        {
+            "keyword": "dirsek",
+            "taboo_words": [
+                "vücut",
+                "Bölüm",
+                "bağlantı",
+                "diz",
+                "kol"
+            ]
+        },
+        {
+            "keyword": "Barış",
+            "taboo_words": [
+                "Dünya",
+                "güvercin",
+                "beyaz",
+                "Dünya",
+                "savaş"
+            ]
+        },
+        {
+            "keyword": "Elvis Presley",
+            "taboo_words": [
+                "Kaya",
+                "şarkıcı",
+                "efsane",
+                "kaybolmak",
+                "nişan alma"
+            ]
+        },
+        {
+            "keyword": "amaç",
+            "taboo_words": [
+                "neden",
+                "arkasında",
+                "arıza",
+                "kaza",
+                "zamanlama"
+            ]
+        },
+        {
+            "keyword": "sesli mesaj",
+            "taboo_words": [
+                "İleti",
+                "telefon görüşmesi",
+                "ayrılmak",
+                "Cevap",
+                "yüzük"
+            ]
+        },
+        {
+            "keyword": "gandhi",
+            "taboo_words": [
+                "Barış",
+                "Hindistan",
+                "tanınmış",
+                "perhiz",
+                "Gözlük"
+            ]
+        },
+        {
+            "keyword": "ağırlık",
+            "taboo_words": [
+                "pound",
+                "kilogram",
+                "ölçek",
+                "şişman",
+                "bitmiş"
+            ]
+        },
+        {
+            "keyword": "sirk",
+            "taboo_words": [
+                "yüzük",
+                "çadır",
+                "palyaço",
+                "trapez",
+                "Ringling"
+            ]
+        },
+        {
+            "keyword": "on sent",
+            "taboo_words": [
+                "on",
+                "kuruş",
+                "nikel",
+                "çeyrek",
+                "değişiklik"
+            ]
+        },
+        {
+            "keyword": "duvar yazısı",
+            "taboo_words": [
+                "sprey boya",
+                "yakıp yıkmak",
+                "renkler",
+                "duvar",
+                "Kabadayı"
+            ]
+        },
+        {
+            "keyword": "ulu",
+            "taboo_words": [
+                "final",
+                "harika",
+                "son",
+                "büyük",
+                "önemli"
+            ]
+        },
+        {
+            "keyword": "gömlek",
+            "taboo_words": [
+                "buton",
+                "giyinmek",
+                "t şeklinde",
+                "üst",
+                "bluz"
+            ]
+        },
+        {
+            "keyword": "britney spears",
+            "taboo_words": [
+                "kevin Federline",
+                "bebek",
+                "şarkıcı",
+                "pop yıldızı",
+                "müzik"
+            ]
+        },
+        {
+            "keyword": "Edgar Allan Poe",
+            "taboo_words": [
+                "şiir",
+                "kuzgun",
+                "korkutucu",
+                "klasik",
+                "tanınmış"
+            ]
+        },
+        {
+            "keyword": "stanford",
+            "taboo_words": [
+                "Üniversite",
+                "Kaliforniya",
+                "kolej",
+                "ders çalışma",
+                "kabul"
+            ]
+        },
+        {
+            "keyword": "michael jordan",
+            "taboo_words": [
+                "boğalar",
+                "Chicago",
+                "Basketbol",
+                "star",
+                "23"
+            ]
+        },
+        {
+            "keyword": "pembe dizi",
+            "taboo_words": [
+                "hayatları",
+                "romantik",
+                "aktörler",
+                "gündüz",
+                "televizyon"
+            ]
+        },
+        {
+            "keyword": "soru",
+            "taboo_words": [
+                "Sor",
+                "Cevap",
+                "sorguya",
+                "dönem",
+                "işaret"
+            ]
+        },
+        {
+            "keyword": "yılan",
+            "taboo_words": [
+                "hayvan",
+                "long",
+                "kobra",
+                "zehir",
+                "zehir"
+            ]
+        },
+        {
+            "keyword": "hizmetçi",
+            "taboo_words": [
+                "temiz",
+                "idareci",
+                "çamaşır",
+                "zengin",
+                "zengin"
+            ]
+        },
+        {
+            "keyword": "şaka",
+            "taboo_words": [
+                "gülmek",
+                "dalga geçmek",
+                "gülümsemek",
+                "mutlu",
+                "üzgün"
+            ]
+        },
+        {
+            "keyword": "almak",
+            "taboo_words": [
+                "Gıda",
+                "Arabaya servis",
+                "teslim",
+                "restoran",
+                "araba"
+            ]
+        },
+        {
+            "keyword": "vay",
+            "taboo_words": [
+                "ünlem",
+                "müthiş",
+                "güzel",
+                "sürpriz",
+                "bak"
+            ]
+        },
+        {
+            "keyword": "david kıç",
+            "taboo_words": [
+                "komiser",
+                "Basketbol",
+                "spor",
+                "kurallar",
+                "bitmiş"
+            ]
+        },
+        {
+            "keyword": "Akvaryum",
+            "taboo_words": [
+                "Akvaryum balığı",
+                "kâse",
+                "Evcil Hayvan",
+                "basit",
+                "besleme"
+            ]
+        },
+        {
+            "keyword": "çızıktırmak",
+            "taboo_words": [
+                "harfler",
+                "kelimeler",
+                "sözlük",
+                "fayans",
+                "masa oyunu"
+            ]
+        },
+        {
+            "keyword": "lojistik",
+            "taboo_words": [
+                "ayrıntılar",
+                "program",
+                "zaman",
+                "şekil",
+                "karar ver"
+            ]
+        },
+        {
+            "keyword": "merkez",
+            "taboo_words": [
+                "etrafında",
+                "orta",
+                "durum",
+                "odak",
+                "daire"
+            ]
+        },
+        {
+            "keyword": "güç",
+            "taboo_words": [
+                "elektrik",
+                "pil",
+                "kuvvet",
+                "kordon",
+                "çıkış"
+            ]
+        },
+        {
+            "keyword": "üretmek",
+            "taboo_words": [
+                "oluşturmak",
+                "Yapmak",
+                "üretim",
+                "Bakkal",
+                "mağaza"
+            ]
+        },
+        {
+            "keyword": "Ohio",
+            "taboo_words": [
+                "durum",
+                "midwest",
+                "cleveland",
+                "cincinnati",
+                "columbus"
+            ]
+        },
+        {
+            "keyword": "diş macunu",
+            "taboo_words": [
+                "fırça",
+                "tıraş",
+                "her",
+                "diş doktoru",
+                "boşluk"
+            ]
+        },
+        {
+            "keyword": "kafa",
+            "taboo_words": [
+                "yüz",
+                "ayak parmağı",
+                "Bölüm",
+                "vücut",
+                "gövde"
+            ]
+        },
+        {
+            "keyword": "buzdolabı",
+            "taboo_words": [
+                "soğuk",
+                "mağaza",
+                "Gıda",
+                "Tut",
+                "kapılar"
+            ]
+        },
+        {
+            "keyword": "ilçe",
+            "taboo_words": [
+                "Kent",
+                "durum",
+                "ilçe",
+                "yerel",
+                "map"
+            ]
+        },
+        {
+            "keyword": "Çevir sesi",
+            "taboo_words": [
+                "bip",
+                "meşgul",
+                "telefon",
+                "telefon etmek",
+                "tuşlamak"
+            ]
+        },
+        {
+            "keyword": "Amerikan",
+            "taboo_words": [
+                "vatandaş",
+                "ülke",
+                "Amerika Birleşik Devletleri",
+                "Kanada",
+                "devletler"
+            ]
+        },
+        {
+            "keyword": "minyatür",
+            "taboo_words": [
+                "görünüm",
+                "göstermek",
+                "televizyon",
+                "kamera",
+                "yönetmen"
+            ]
+        },
+        {
+            "keyword": "oryantasyon",
+            "taboo_words": [
+                "okul",
+                "iş",
+                "new",
+                "başla",
+                "öğretme"
+            ]
+        },
+        {
+            "keyword": "DVD",
+            "taboo_words": [
+                "disk",
+                "film",
+                "film",
+                "oyuncu",
+                "vcr"
+            ]
+        },
+        {
+            "keyword": "dizayn",
+            "taboo_words": [
+                "oluşturmak",
+                "Yapmak",
+                "kopya",
+                "çizmek",
+                "şekil vermek"
+            ]
+        },
+        {
+            "keyword": "Lamba",
+            "taboo_words": [
+                "ışık",
+                "ampul",
+                "görmek",
+                "karanlık",
+                "üzerinde"
+            ]
+        },
+        {
+            "keyword": "yale",
+            "taboo_words": [
+                "zorlu",
+                "Üniversite",
+                "kolej",
+                "ders çalışma",
+                "kabul"
+            ]
+        },
+        {
+            "keyword": "steve wynn",
+            "taboo_words": [
+                "las vegas",
+                "kumarhane",
+                "otel",
+                "Sanat",
+                "şerit"
+            ]
+        },
+        {
+            "keyword": "Chicago",
+            "taboo_words": [
+                "sears kulesi",
+                "illinois",
+                "Kent",
+                "lacivert iskele",
+                "midwest"
+            ]
+        },
+        {
+            "keyword": "polis",
+            "taboo_words": [
+                "polisler",
+                "yasa",
+                "kurallar",
+                "bilet",
+                "rozet"
+            ]
+        },
+        {
+            "keyword": "dük",
+            "taboo_words": [
+                "carolina",
+                "Üniversite",
+                "kolej",
+                "ders çalışma",
+                "kabul"
+            ]
+        },
+        {
+            "keyword": "Internet",
+            "taboo_words": [
+                "hız",
+                "bilgisayar",
+                "dizüstü",
+                "bilgi",
+                "bulmak"
+            ]
+        },
+        {
+            "keyword": "jöle",
+            "taboo_words": [
+                "sandviç",
+                "fıstık ezmesi",
+                "Smuckers",
+                "reçel",
+                "şartları yerine getirmemek"
+            ]
+        },
+        {
+            "keyword": "battaniye",
+            "taboo_words": [
+                "yumuşak",
+                "uyku",
+                "yatak",
+                "örtmek",
+                "throw"
+            ]
+        },
+        {
+            "keyword": "İngiliz anahtarı",
+            "taboo_words": [
+                "cıvata",
+                "duvar",
+                "asmak",
+                "araç",
+                "büküm"
+            ]
+        },
+        {
+            "keyword": "Mısır",
+            "taboo_words": [
+                "mısır koçanı",
+                "ızgara",
+                "Sarı",
+                "kulaklar",
+                "ısırmak"
+            ]
+        },
+        {
+            "keyword": "fırtına",
+            "taboo_words": [
+                "ıslak",
+                "Su",
+                "ahmak ıslatan",
+                "dökün",
+                "şemsiye"
+            ]
+        },
+        {
+            "keyword": "avukat",
+            "taboo_words": [
+                "avukat",
+                "yasa",
+                "temsil etmek",
+                "sağ",
+                "korumak"
+            ]
+        },
+        {
+            "keyword": "merdiven",
+            "taboo_words": [
+                "adımlar",
+                "uzanma",
+                "daha yüksek",
+                "ayakta durmak",
+                "kat"
+            ]
+        },
+        {
+            "keyword": "karbonhidratlar",
+            "taboo_words": [
+                "beslenme",
+                "şeker",
+                "ekmek",
+                "bira",
+                "atkins"
+            ]
+        },
+        {
+            "keyword": "özel sermaye",
+            "taboo_words": [
+                "KKR",
+                "siyah taş",
+                "fon, sermaye",
+                "satın alma",
+                "return"
+            ]
+        },
+        {
+            "keyword": "Fındık",
+            "taboo_words": [
+                "cıvataları",
+                "araçlar",
+                "yemek",
+                "park",
+                "Gıda"
+            ]
+        },
+        {
+            "keyword": "kuru silinebilir tahta",
+            "taboo_words": [
+                "yazmak",
+                "duvar",
+                "asmak",
+                "Kara tahta",
+                "öğretme"
+            ]
+        },
+        {
+            "keyword": "rozet",
+            "taboo_words": [
+                "polisler",
+                "yasa",
+                "kurallar",
+                "bilet",
+                "polis"
+            ]
+        },
+        {
+            "keyword": "yumruk",
+            "taboo_words": [
+                "el",
+                "parmaklar",
+                "yumruk",
+                "Hayır",
+                "hareketler"
+            ]
+        },
+        {
+            "keyword": "inşaat",
+            "taboo_words": [
+                "inşa etmek",
+                "vinç",
+                "şirket",
+                "zor",
+                "şapka"
+            ]
+        },
+        {
+            "keyword": "gökdelen",
+            "taboo_words": [
+                "bina",
+                "uzun boylu",
+                "Kent",
+                "şehir merkezi",
+                "ofis"
+            ]
+        },
+        {
+            "keyword": "görünüyor",
+            "taboo_words": [
+                "görüntülenir",
+                "görünüyor",
+                "hayal etmek",
+                "zaman",
+                "düşünce"
+            ]
+        },
+        {
+            "keyword": "kaymak",
+            "taboo_words": [
+                "park",
+                "aşağı",
+                "çocuklar",
+                "kayma",
+                "Fotoğraf"
+            ]
+        },
+        {
+            "keyword": "çılgın",
+            "taboo_words": [
+                "çılgın",
+                "psiko",
+                "Yardım",
+                "psikiyatrist",
+                "toons"
+            ]
+        },
+        {
+            "keyword": "maskelemek",
+            "taboo_words": [
+                "jim carrey",
+                "saklamak",
+                "cadılar bayramı",
+                "giyinmek",
+                "kayak"
+            ]
+        },
+        {
+            "keyword": "crayola",
+            "taboo_words": [
+                "renkler",
+                "pastel boya",
+                "işaretleyici",
+                "okul",
+                "yazmak"
+            ]
+        },
+        {
+            "keyword": "kaşık",
+            "taboo_words": [
+                "yemek",
+                "tahıl",
+                "kâse",
+                "çatal",
+                "gümüş takımlar"
+            ]
+        },
+        {
+            "keyword": "yürüme",
+            "taboo_words": [
+                "çalışan",
+                "atlama",
+                "ayaklar",
+                "hareket",
+                "yavaş"
+            ]
+        },
+        {
+            "keyword": "Macbeth",
+            "taboo_words": [
+                "cadı",
+                "baron",
+                "iskoçya",
+                "kral",
+                "Hanım"
+            ]
+        },
+        {
+            "keyword": "soygun",
+            "taboo_words": [
+                "hırsız",
+                "istila",
+                "çalmak",
+                "almak",
+                "ev"
+            ]
+        },
+        {
+            "keyword": "kasaba",
+            "taboo_words": [
+                "Kent",
+                "yer",
+                "salon",
+                "toplamak",
+                "küçük"
+            ]
+        },
+        {
+            "keyword": "chrysler",
+            "taboo_words": [
+                "araba",
+                "otomobil",
+                "marka",
+                "Daimler",
+                "sebring"
+            ]
+        },
+        {
+            "keyword": "Türkiye",
+            "taboo_words": [
+                "şükran Günü",
+                "ülke",
+                "hacı",
+                "sos",
+                "patates püresi"
+            ]
+        },
+        {
+            "keyword": "kâse",
+            "taboo_words": [
+                "yemek",
+                "tahıl",
+                "kaşık",
+                "pimleri",
+                "top"
+            ]
+        },
+        {
+            "keyword": "tam",
+            "taboo_words": [
+                "boş",
+                "bardak",
+                "yarım",
+                "dolma",
+                "aç"
+            ]
+        },
+        {
+            "keyword": "San Francisco",
+            "taboo_words": [
+                "Kent",
+                "boğaziçi köprüsü",
+                "Defne",
+                "alcatraz",
+                "Kaliforniya"
+            ]
+        },
+        {
+            "keyword": "Mick Jagger",
+            "taboo_words": [
+                "yuvarlanan taşlar",
+                "şarkıcı",
+                "60's",
+                "müzik",
+                "dil"
+            ]
+        },
+        {
+            "keyword": "balta",
+            "taboo_words": [
+                "kesmek",
+                "Odun",
+                "ağaç",
+                "orman",
+                "kereste"
+            ]
+        },
+        {
+            "keyword": "Kaptan Morgan",
+            "taboo_words": [
+                "ROM",
+                "İçmek",
+                "baharatlı",
+                "alkol",
+                "likör"
+            ]
+        },
+        {
+            "keyword": "kamyon",
+            "taboo_words": [
+                "araba",
+                "büyük",
+                "tekerlekler",
+                "büyük",
+                "yol"
+            ]
+        },
+        {
+            "keyword": "Einstein",
+            "taboo_words": [
+                "izafiyet",
+                "teori",
+                "köstek",
+                "ışık hızı",
+                "e = mc kare"
+            ]
+        },
+        {
+            "keyword": "amca dayı",
+            "taboo_words": [
+                "erkek kardeş",
+                "baba",
+                "anne",
+                "kardeş",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "yakalandı",
+            "taboo_words": [
+                "yakalanan",
+                "koparmada",
+                "top",
+                "bulundu",
+                "suçlu"
+            ]
+        },
+        {
+            "keyword": "yama",
+            "taboo_words": [
+                "ödül",
+                "izci",
+                "düzeltme",
+                "birlikte",
+                "bağlamak"
+            ]
+        },
+        {
+            "keyword": "İpucu",
+            "taboo_words": [
+                "taksi",
+                "taksi",
+                "Garson",
+                "restoran",
+                "para"
+            ]
+        },
+        {
+            "keyword": "soğan",
+            "taboo_words": [
+                "gözler",
+                "kabuk",
+                "pişirmek",
+                "damak zevki",
+                "çiğ"
+            ]
+        },
+        {
+            "keyword": "kıkırdama",
+            "taboo_words": [
+                "gülmek",
+                "şaka",
+                "bilmece",
+                "komik",
+                "gülümsemek"
+            ]
+        },
+        {
+            "keyword": "çıkarıldı",
+            "taboo_words": [
+                "uzakta",
+                "almak",
+                "kapmak",
+                "hala kızı",
+                "teyze"
+            ]
+        },
+        {
+            "keyword": "Gofretler",
+            "taboo_words": [
+                "şurup",
+                "akçaağaç",
+                "özsu",
+                "Tereyağı",
+                "Gözleme"
+            ]
+        },
+        {
+            "keyword": "kardan adam",
+            "taboo_words": [
+                "soğuk",
+                "taşaklar",
+                "havuç",
+                "Noel",
+                "iğrenç"
+            ]
+        },
+        {
+            "keyword": "vatandaş",
+            "taboo_words": [
+                "kane",
+                "polis",
+                "ülke",
+                "kişi",
+                "Yaygın"
+            ]
+        },
+        {
+            "keyword": "bayrak",
+            "taboo_words": [
+                "yıldızlar",
+                "çizgili",
+                "Amerikan",
+                "direk",
+                "kutup"
+            ]
+        },
+        {
+            "keyword": "yeğen",
+            "taboo_words": [
+                "bağıl",
+                "aile",
+                "hala kızı",
+                "kardeş",
+                "çocuk"
+            ]
+        },
+        {
+            "keyword": "unicycle",
+            "taboo_words": [
+                "sirk",
+                "bisiklet",
+                "sanatçı",
+                "tekerlek",
+                "göstermek"
+            ]
+        },
+        {
+            "keyword": "altın kap",
+            "taboo_words": [
+                "cüce cin",
+                "renkler",
+                "Su",
+                "gökkuşağı",
+                "yağmur"
+            ]
+        },
+        {
+            "keyword": "küre",
+            "taboo_words": [
+                "map",
+                "Dünya",
+                "küre",
+                "Atlas",
+                "Dünya"
+            ]
+        },
+        {
+            "keyword": "Empire State binası",
+            "taboo_words": [
+                "en uzun",
+                "Amerika",
+                "New York",
+                "gökdelen",
+                "bina"
+            ]
+        },
+        {
+            "keyword": "Ölçek",
+            "taboo_words": [
+                "hile",
+                "okul",
+                "bilgi yarışması",
+                "ders çalışma",
+                "sınav"
+            ]
+        },
+        {
+            "keyword": "sprey boya",
+            "taboo_words": [
+                "duvar yazısı",
+                "yakıp yıkmak",
+                "renkler",
+                "duvar",
+                "Kabadayı"
+            ]
+        },
+        {
+            "keyword": "cerrahlık",
+            "taboo_words": [
+                "kesmek",
+                "vücut",
+                "hastane",
+                "yapmak",
+                "operasyon"
+            ]
+        },
+        {
+            "keyword": "archie andrews",
+            "taboo_words": [
+                "çizgi roman",
+                "betty",
+                "veronika",
+                "jughead",
+                "reggie"
+            ]
+        },
+        {
+            "keyword": "teleskop",
+            "taboo_words": [
+                "görünüm",
+                "görmek",
+                "Uzay",
+                "güneş",
+                "gezegen"
+            ]
+        },
+        {
+            "keyword": "sus",
+            "taboo_words": [
+                "sessiz",
+                "sessiz",
+                "köpek yavrusu",
+                "konuşma",
+                "konuşması"
+            ]
+        },
+        {
+            "keyword": "kalem",
+            "taboo_words": [
+                "silgi",
+                "dolma kalem",
+                "Sarı",
+                "yazmak",
+                "kâğıt"
+            ]
+        },
+        {
+            "keyword": "Koala ayısı",
+            "taboo_words": [
+                "Avustralya",
+                "hayvanlar",
+                "vahşi",
+                "ağaç",
+                "tırmanış"
+            ]
+        },
+        {
+            "keyword": "wayne Gretzky",
+            "taboo_words": [
+                "buz Hokeyi",
+                "star",
+                "hedef",
+                "Puan",
+                "tanınmış"
+            ]
+        },
+        {
+            "keyword": "gıcırtı",
+            "taboo_words": [
+                "fare",
+                "pas",
+                "kapı",
+                "sıvı yağ",
+                "gres"
+            ]
+        },
+        {
+            "keyword": "sonsuza dek",
+            "taboo_words": [
+                "ara sıra",
+                "asla",
+                "sonsuzluk",
+                "son",
+                "her zaman"
+            ]
+        },
+        {
+            "keyword": "hiçbir şey değil",
+            "taboo_words": [
+                "sıfır",
+                "Yok",
+                "Miktar",
+                "ayrıldı",
+                "bir hiç olan kimse"
+            ]
+        },
+        {
+            "keyword": "dennis rodman",
+            "taboo_words": [
+                "Basketbol",
+                "güreş",
+                "Chicago Bulls",
+                "detroit pistonlar",
+                "sekme"
+            ]
+        },
+        {
+            "keyword": "nickelodeon",
+            "taboo_words": [
+                "ağ",
+                "televizyon",
+                "çocuklar",
+                "karikatür",
+                "aile"
+            ]
+        },
+        {
+            "keyword": "matematik",
+            "taboo_words": [
+                "okul",
+                "konu",
+                "sayılar",
+                "okuma",
+                "ingilizce"
+            ]
+        },
+        {
+            "keyword": "cep telefonu",
+            "taboo_words": [
+                "konuşma",
+                "tuşlamak",
+                "telefon etmek",
+                "konuşması",
+                "cep"
+            ]
+        },
+        {
+            "keyword": "karakter",
+            "taboo_words": [
+                "karikatür",
+                "komik",
+                "yuvarlak",
+                "Bölüm",
+                "Oyna"
+            ]
+        },
+        {
+            "keyword": "Parti",
+            "taboo_words": [
+                "kutlamak",
+                "doğum günü",
+                "yeni yıl",
+                "eğlence",
+                "hafta sonu"
+            ]
+        },
+        {
+            "keyword": "vandalizm",
+            "taboo_words": [
+                "sprey boya",
+                "yakıp yıkmak",
+                "renkler",
+                "duvar",
+                "duvar yazısı"
+            ]
+        },
+        {
+            "keyword": "dışarı",
+            "taboo_words": [
+                "içeride",
+                "beyzbol",
+                "Kutu",
+                "crickett",
+                "atış"
+            ]
+        },
+        {
+            "keyword": "saçma",
+            "taboo_words": [
+                "saçma",
+                "çılgın",
+                "Fındık",
+                "kaçık",
+                "komik"
+            ]
+        },
+        {
+            "keyword": "kafein",
+            "taboo_words": [
+                "kok",
+                "soda",
+                "pop",
+                "İçmek",
+                "Su"
+            ]
+        },
+        {
+            "keyword": "ipotek",
+            "taboo_words": [
+                "kendi",
+                "borç",
+                "borç",
+                "ev",
+                "kira"
+            ]
+        },
+        {
+            "keyword": "tom brady",
+            "taboo_words": [
+                "Oyun kurucu",
+                "vatanseverler",
+                "Futbol",
+                "star",
+                "gol"
+            ]
+        },
+        {
+            "keyword": "bilgisayar",
+            "taboo_words": [
+                "ibm",
+                "masaüstü",
+                "dizüstü",
+                "Internet",
+                "elma"
+            ]
+        },
+        {
+            "keyword": "postacı",
+            "taboo_words": [
+                "teslim etmek",
+                "karl malone",
+                "fedex",
+                "Güç kaynağı",
+                "posta servisi"
+            ]
+        },
+        {
+            "keyword": "nikel",
+            "taboo_words": [
+                "beş",
+                "kuruş",
+                "on sent",
+                "çeyrek",
+                "değişiklik"
+            ]
+        },
+        {
+            "keyword": "koçanı, mısır",
+            "taboo_words": [
+                "makaslama",
+                "ızgara",
+                "Sarı",
+                "kulaklar",
+                "ısırmak"
+            ]
+        },
+        {
+            "keyword": "çatı",
+            "taboo_words": [
+                "üst katta",
+                "yağmur",
+                "ev",
+                "ev",
+                "zona hastalığı"
+            ]
+        },
+        {
+            "keyword": "Akvaryum balığı",
+            "taboo_words": [
+                "kâse",
+                "tank",
+                "Evcil Hayvan",
+                "basit",
+                "besleme"
+            ]
+        },
+        {
+            "keyword": "Çatı katı",
+            "taboo_words": [
+                "üst katta",
+                "depolama",
+                "ev",
+                "ev",
+                "bitiş"
+            ]
+        },
+        {
+            "keyword": "Kuzey Kutbu",
+            "taboo_words": [
+                "soğuk",
+                "Dünya",
+                "Arktik",
+                "kar",
+                "güney"
+            ]
+        },
+        {
+            "keyword": "erkek yeğen",
+            "taboo_words": [
+                "bağıl",
+                "aile",
+                "hala kızı",
+                "kardeş",
+                "çocuk"
+            ]
+        },
+        {
+            "keyword": "Atlas",
+            "taboo_words": [
+                "haritalar",
+                "Dünya",
+                "ülke",
+                "Dünya",
+                "küre"
+            ]
+        },
+        {
+            "keyword": "çanta",
+            "taboo_words": [
+                "para",
+                "nakit",
+                "kredi kartları",
+                "lisans",
+                "cüzdan"
+            ]
+        },
+        {
+            "keyword": "diş ipi",
+            "taboo_words": [
+                "gargara",
+                "fırça",
+                "diş",
+                "yapıştırmak",
+                "diş doktoru"
+            ]
+        },
+        {
+            "keyword": "üvey baba",
+            "taboo_words": [
+                "büyükbaba veya büyükanne",
+                "anne",
+                "baba",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "üvey anne",
+            "taboo_words": [
+                "büyükbaba veya büyükanne",
+                "anne",
+                "baba",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "ikinci kuzen",
+            "taboo_words": [
+                "erkek kardeş",
+                "baba",
+                "anne",
+                "kız kardeş",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "buton",
+            "taboo_words": [
+                "gömlek",
+                "solumak",
+                "birlikte",
+                "fermuar",
+                "çamaşırlar"
+            ]
+        },
+        {
+            "keyword": "sandalet",
+            "taboo_words": [
+                "terlik",
+                "ayakkabı",
+                "ayaklar",
+                "kum",
+                "giyinmek"
+            ]
+        },
+        {
+            "keyword": "iletki",
+            "taboo_words": [
+                "müzik aleti",
+                "matematik",
+                "okul",
+                "şekiller",
+                "daire"
+            ]
+        },
+        {
+            "keyword": "soğuk",
+            "taboo_words": [
+                "kardan adam",
+                "karakter",
+                "havuç",
+                "Noel",
+                "buton"
+            ]
+        },
+        {
+            "keyword": "nintendo wii",
+            "taboo_words": [
+                "Oyna",
+                "kontrolör",
+                "xbox",
+                "sony",
+                "video oyunu"
+            ]
+        },
+        {
+            "keyword": "kumbara",
+            "taboo_words": [
+                "mağaza",
+                "para",
+                "madeni para",
+                "kayıt etmek",
+                "ödenek"
+            ]
+        },
+        {
+            "keyword": "altı Bayrak",
+            "taboo_words": [
+                "Büyük amerika",
+                "lunapark hız treni",
+                "lunapark",
+                "Teksas",
+                "yarasa Adam"
+            ]
+        },
+        {
+            "keyword": "alışveriş Merkezi",
+            "taboo_words": [
+                "alışveriş yapmak",
+                "mağazalar",
+                "Food court",
+                "çocuklar",
+                "çamaşırlar"
+            ]
+        },
+        {
+            "keyword": "roger federer",
+            "taboo_words": [
+                "tenis",
+                "en iyi",
+                "En büyük",
+                "rütbe",
+                "bir"
+            ]
+        },
+        {
+            "keyword": "şerit alışveriş merkezi",
+            "taboo_words": [
+                "banliyöler",
+                "Bakkal",
+                "mağaza",
+                "mcdonalds",
+                "otopark"
+            ]
+        },
+        {
+            "keyword": "şükran Günü",
+            "taboo_words": [
+                "Türkiye",
+                "Kasım",
+                "hacı",
+                "tatil",
+                "Noel"
+            ]
+        },
+        {
+            "keyword": "ceza",
+            "taboo_words": [
+                "yasadışı",
+                "ceza",
+                "suç",
+                "yanlış",
+                "yasa"
+            ]
+        },
+        {
+            "keyword": "duvar kağıdı",
+            "taboo_words": [
+                "boya",
+                "Odalar",
+                "iliştirmek",
+                "tutkal",
+                "ev"
+            ]
+        },
+        {
+            "keyword": "çizgili",
+            "taboo_words": [
+                "bayrak",
+                "yıldızlar",
+                "pantolon",
+                "gömlek",
+                "hatlar"
+            ]
+        },
+        {
+            "keyword": "yüzük",
+            "taboo_words": [
+                "altın",
+                "giyinmek",
+                "nişan",
+                "düğün",
+                "parmak"
+            ]
+        },
+        {
+            "keyword": "altın eldiven",
+            "taboo_words": [
+                "beyzbol",
+                "savunma",
+                "Fielding",
+                "durum",
+                "oyuncu"
+            ]
+        },
+        {
+            "keyword": "Pazar",
+            "taboo_words": [
+                "Pazartesi",
+                "Cumartesi",
+                "Cuma",
+                "hafta sonu",
+                "dini tatil günü"
+            ]
+        },
+        {
+            "keyword": "etiket",
+            "taboo_words": [
+                "uygulamak",
+                "bant",
+                "tutkal",
+                "karikatür",
+                "eğlence"
+            ]
+        },
+        {
+            "keyword": "rüya",
+            "taboo_words": [
+                "uyku",
+                "dinlenme",
+                "beyin",
+                "aktivite",
+                "kâbus"
+            ]
+        },
+        {
+            "keyword": "smokin",
+            "taboo_words": [
+                "takım elbise",
+                "balo",
+                "düğün",
+                "bow-tie",
+                "yelek"
+            ]
+        },
+        {
+            "keyword": "çember",
+            "taboo_words": [
+                "Basketbol",
+                "hula",
+                "küpe",
+                "atlama",
+                "vasıtasıyla"
+            ]
+        },
+        {
+            "keyword": "esaretin Bedeli",
+            "taboo_words": [
+                "tim Robbins",
+                "film",
+                "film",
+                "hapis",
+                "kaçış"
+            ]
+        },
+        {
+            "keyword": "Şirinler",
+            "taboo_words": [
+                "lalalala",
+                "mutlu",
+                "mavi",
+                "karikatür",
+                "gargamel"
+            ]
+        },
+        {
+            "keyword": "Ağla",
+            "taboo_words": [
+                "üzgün",
+                "gözyaşı",
+                "göz",
+                "canını yakmak",
+                "Su"
+            ]
+        },
+        {
+            "keyword": "genç",
+            "taboo_words": [
+                "okul",
+                "on",
+                "çocuklar",
+                "büyümek",
+                "kavga"
+            ]
+        },
+        {
+            "keyword": "Not",
+            "taboo_words": [
+                "yazmak",
+                "İleti",
+                "Çubuk",
+                "hatırlamak",
+                "müzikal"
+            ]
+        },
+        {
+            "keyword": "Patates",
+            "taboo_words": [
+                "çuval",
+                "patates kızartması",
+                "püre",
+                "pişmiş",
+                "et"
+            ]
+        },
+        {
+            "keyword": "bulmaca",
+            "taboo_words": [
+                "bulmaca",
+                "mantık",
+                "parçalar",
+                "çözmek",
+                "çözüm"
+            ]
+        },
+        {
+            "keyword": "uçan daire",
+            "taboo_words": [
+                "ufo",
+                "yabancı",
+                "gece",
+                "ışıklar",
+                "Uzay"
+            ]
+        },
+        {
+            "keyword": "vcr",
+            "taboo_words": [
+                "bant",
+                "film",
+                "film",
+                "oyuncu",
+                "DVD"
+            ]
+        },
+        {
+            "keyword": "cancun",
+            "taboo_words": [
+                "Meksika",
+                "tatil",
+                "Bahar tatili",
+                "Su",
+                "plaj"
+            ]
+        },
+        {
+            "keyword": "rasgele",
+            "taboo_words": [
+                "tamsayı",
+                "zor",
+                "sipariş",
+                "Ayarlamak",
+                "Pekin"
+            ]
+        },
+        {
+            "keyword": "şarap",
+            "taboo_words": [
+                "kırmızı",
+                "Şiraz",
+                "merlot",
+                "beyaz",
+                "İçmek"
+            ]
+        },
+        {
+            "keyword": "Salata sosu",
+            "taboo_words": [
+                "bin ada",
+                "Fransızca",
+                "Hafif",
+                "Kızarmış ekmek",
+                "Süsleme"
+            ]
+        },
+        {
+            "keyword": "çocuklar",
+            "taboo_words": [
+                "çocuklar",
+                "küçük",
+                "insanlar",
+                "genç",
+                "gençlik"
+            ]
+        },
+        {
+            "keyword": "polo",
+            "taboo_words": [
+                "gömlek",
+                "spor",
+                "top",
+                "at",
+                "yaka"
+            ]
+        },
+        {
+            "keyword": "parka",
+            "taboo_words": [
+                "yağmur",
+                "soğuk",
+                "ıslak",
+                "Su",
+                "korumak"
+            ]
+        },
+        {
+            "keyword": "folyo",
+            "taboo_words": [
+                "alter",
+                "değişiklik",
+                "İngiliz anahtarı",
+                "bozmak",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "dokunma",
+            "taboo_words": [
+                "eller",
+                "parmak",
+                "hissetmek",
+                "duyu",
+                "uzanma"
+            ]
+        },
+        {
+            "keyword": "paris hilton",
+            "taboo_words": [
+                "şöhret",
+                "dedikodu",
+                "küçük gazete",
+                "lohan",
+                "basit"
+            ]
+        },
+        {
+            "keyword": "duş perdesi",
+            "taboo_words": [
+                "yıkama",
+                "önlemek",
+                "kapı",
+                "asmak",
+                "otel"
+            ]
+        },
+        {
+            "keyword": "genel",
+            "taboo_words": [
+                "avukat",
+                "belirsiz",
+                "askeri",
+                "rütbe",
+                "subay"
+            ]
+        },
+        {
+            "keyword": "x-men",
+            "taboo_words": [
+                "mucize",
+                "süper kahramanlar",
+                "wolverine",
+                "mutant",
+                "çizgi filmler"
+            ]
+        },
+        {
+            "keyword": "kanguru",
+            "taboo_words": [
+                "kese",
+                "atlama",
+                "hayvan",
+                "Avustralya",
+                "Kaptan"
+            ]
+        },
+        {
+            "keyword": "father-in-law",
+            "taboo_words": [
+                "koca",
+                "kadın eş",
+                "ebeveyn",
+                "kardeş",
+                "aile"
+            ]
+        },
+        {
+            "keyword": "ayrılma",
+            "taboo_words": [
+                "müdürlü",
+                "almak",
+                "uçak",
+                "otobüs",
+                "tren"
+            ]
+        },
+        {
+            "keyword": "Şerit",
+            "taboo_words": [
+                "omuz",
+                "arabalar",
+                "geçmek",
+                "sürücü",
+                "çevirmek"
+            ]
+        },
+        {
+            "keyword": "arabulucu",
+            "taboo_words": [
+                "dinlemek",
+                "akran",
+                "sorun",
+                "ihtilaf",
+                "yerleşmek"
+            ]
+        },
+        {
+            "keyword": "kamera",
+            "taboo_words": [
+                "ateş etmek",
+                "resim",
+                "dijital",
+                "odak",
+                "hafıza"
+            ]
+        },
+        {
+            "keyword": "öğretmen",
+            "taboo_words": [
+                "profesör",
+                "okul",
+                "class",
+                "çocuklar",
+                "öğrenmek"
+            ]
+        },
+        {
+            "keyword": "büyük büyükanne",
+            "taboo_words": [
+                "nesil",
+                "baba",
+                "anne",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "tamamlayınız",
+            "taboo_words": [
+                "bitiş",
+                "bitmiş",
+                "tamam",
+                "geçmek",
+                "son"
+            ]
+        },
+        {
+            "keyword": "önemsiz peşinde",
+            "taboo_words": [
+                "yazı tahtası",
+                "oyun",
+                "turta",
+                "dolgu",
+                "önemsiz şeyler"
+            ]
+        },
+        {
+            "keyword": "İnternet sitesi",
+            "taboo_words": [
+                "internet üzerinden",
+                "Google",
+                "yahoo",
+                "Internet",
+                "bilgisayar"
+            ]
+        },
+        {
+            "keyword": "politikacı",
+            "taboo_words": [
+                "public",
+                "resmi",
+                "temsilci",
+                "oy",
+                "seçilmiş"
+            ]
+        },
+        {
+            "keyword": "Transcript",
+            "taboo_words": [
+                "sınıflarda",
+                "izler",
+                "okul",
+                "kolej",
+                "iş"
+            ]
+        },
+        {
+            "keyword": "dondurma",
+            "taboo_words": [
+                "dondurucu",
+                "vanilya",
+                "çikolata",
+                "tatlar",
+                "soğuk"
+            ]
+        },
+        {
+            "keyword": "Merkezi Park",
+            "taboo_words": [
+                "hayvanat bahçesi",
+                "New York",
+                "Manhattan",
+                "orta",
+                "yeşil"
+            ]
+        },
+        {
+            "keyword": "Oprah Winfrey",
+            "taboo_words": [
+                "Chicago",
+                "Kadın",
+                "tanınmış",
+                "göstermek",
+                "televizyon"
+            ]
+        },
+        {
+            "keyword": "erkek torun",
+            "taboo_words": [
+                "nesil",
+                "çocuklar",
+                "anne",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "bill gates",
+            "taboo_words": [
+                "microsoft",
+                "zengin",
+                "zengin",
+                "tanınmış",
+                "sadaka"
+            ]
+        },
+        {
+            "keyword": "aptal",
+            "taboo_words": [
+                "miki fare",
+                "Donald Duck",
+                "disney",
+                "karakter",
+                "köpek"
+            ]
+        },
+        {
+            "keyword": "kalp",
+            "taboo_words": [
+                "kan",
+                "organ",
+                "sevgili",
+                "Aşk",
+                "dövmek"
+            ]
+        },
+        {
+            "keyword": "Afro",
+            "taboo_words": [
+                "saç",
+                "çok",
+                "pik",
+                "kıvırcık",
+                "perma"
+            ]
+        },
+        {
+            "keyword": "Mars",
+            "taboo_words": [
+                "Güneş",
+                "sistem",
+                "Uzay",
+                "Dünya",
+                "gezegen"
+            ]
+        },
+        {
+            "keyword": "tamirci",
+            "taboo_words": [
+                "otomobil",
+                "İngiliz anahtarı",
+                "araba",
+                "yağ değişimi",
+                "kaza"
+            ]
+        },
+        {
+            "keyword": "posta kutusu",
+            "taboo_words": [
+                "teslim",
+                "usps",
+                "araba yolu",
+                "ev",
+                "bayrak"
+            ]
+        },
+        {
+            "keyword": "parasail",
+            "taboo_words": [
+                "tatil",
+                "uçmak",
+                "tekne",
+                "Su",
+                "okyanus"
+            ]
+        },
+        {
+            "keyword": "pembemsi",
+            "taboo_words": [
+                "başparmak",
+                "parmak",
+                "el",
+                "ayak parmağı",
+                "yüzük"
+            ]
+        },
+        {
+            "keyword": "güven",
+            "taboo_words": [
+                "inanmak",
+                "söz vermek",
+                "break",
+                "aile",
+                "arkadaş"
+            ]
+        },
+        {
+            "keyword": "Şah Mat",
+            "taboo_words": [
+                "satranç",
+                "kral",
+                "kraliçe",
+                "bitmiş",
+                "oyun"
+            ]
+        },
+        {
+            "keyword": "su şişesi",
+            "taboo_words": [
+                "İçmek",
+                "susuz",
+                "Sıcak",
+                "Spor Dalları",
+                "dolgu"
+            ]
+        },
+        {
+            "keyword": "Gerald ford",
+            "taboo_words": [
+                "Devlet Başkanı",
+                "ölü",
+                "sadece",
+                "nixon",
+                "en eski"
+            ]
+        },
+        {
+            "keyword": "sears kulesi",
+            "taboo_words": [
+                "en uzun",
+                "Amerika",
+                "Chicago",
+                "gökdelen",
+                "bina"
+            ]
+        },
+        {
+            "keyword": "kuruş",
+            "taboo_words": [
+                "şanslı",
+                "madeni para",
+                "değişiklik",
+                "nikel",
+                "on sent"
+            ]
+        },
+        {
+            "keyword": "inekler",
+            "taboo_words": [
+                "Süt",
+                "Çiftlik",
+                "hayvanlar",
+                "çimen",
+                "Mandıra"
+            ]
+        },
+        {
+            "keyword": "popeye's",
+            "taboo_words": [
+                "tavuk",
+                "kfc",
+                "bisküvi",
+                "zeytin yağı",
+                "ıspanak"
+            ]
+        },
+        {
+            "keyword": "çift",
+            "taboo_words": [
+                "evli",
+                "birlikte",
+                "iki",
+                "escort",
+                "ilişki"
+            ]
+        },
+        {
+            "keyword": "ısıtıcı",
+            "taboo_words": [
+                "soğuk",
+                "Sıcak",
+                "kış",
+                "araba",
+                "ev"
+            ]
+        },
+        {
+            "keyword": "peni",
+            "taboo_words": [
+                "para",
+                "pound",
+                "Büyük Britanya",
+                "harcamak",
+                "madeni para"
+            ]
+        },
+        {
+            "keyword": "askı",
+            "taboo_words": [
+                "çamaşırlar",
+                "raf",
+                "ceket",
+                "ceket",
+                "dolap"
+            ]
+        },
+        {
+            "keyword": "tekerlekli sandalye",
+            "taboo_words": [
+                "yardım",
+                "sit",
+                "hastane",
+                "hareket",
+                "Ulaşım"
+            ]
+        },
+        {
+            "keyword": "oyun alanı",
+            "taboo_words": [
+                "kaymak",
+                "salıncak seti",
+                "yuvarlak",
+                "park",
+                "çocuklar"
+            ]
+        },
+        {
+            "keyword": "sınıf",
+            "taboo_words": [
+                "sıra",
+                "Öğrenci",
+                "öğretmen",
+                "okul",
+                "öğrenmek"
+            ]
+        },
+        {
+            "keyword": "İp",
+            "taboo_words": [
+                "kordon",
+                "sicim",
+                "kravat",
+                "römorkör",
+                "güvenli"
+            ]
+        },
+        {
+            "keyword": "güller",
+            "taboo_words": [
+                "kırmızı",
+                "çiçek",
+                "diken",
+                "tarih",
+                "sevgili"
+            ]
+        },
+        {
+            "keyword": "mel gibson",
+            "taboo_words": [
+                "tanınmış",
+                "film",
+                "aktör",
+                "yönetmen",
+                "zengin"
+            ]
+        },
+        {
+            "keyword": "kurbağa",
+            "taboo_words": [
+                "yeşil",
+                "hayvan",
+                "şerbetçiotu",
+                "sümüklü",
+                "sıçrama"
+            ]
+        },
+        {
+            "keyword": "Konu",
+            "taboo_words": [
+                "iğne",
+                "dikmek",
+                "yüksük",
+                "sicim",
+                "buton"
+            ]
+        },
+        {
+            "keyword": "Piyano adam",
+            "taboo_words": [
+                "Billy Joel",
+                "müzisyen",
+                "şarkıcı",
+                "kör",
+                "ateş"
+            ]
+        },
+        {
+            "keyword": "shaq",
+            "taboo_words": [
+                "sıcaklık",
+                "lakers",
+                "Basketbol",
+                "star",
+                "merkez"
+            ]
+        },
+        {
+            "keyword": "çerçeve",
+            "taboo_words": [
+                "resim",
+                "Fotoğraf",
+                "Görüntüle",
+                "Gözlük",
+                "etrafında"
+            ]
+        },
+        {
+            "keyword": "ilçe",
+            "taboo_words": [
+                "avukat",
+                "alan",
+                "kod",
+                "yargı",
+                "okul"
+            ]
+        },
+        {
+            "keyword": "cumhuriyetçi",
+            "taboo_words": [
+                "George Bush",
+                "Parti",
+                "siyasi",
+                "fil",
+                "kırmızı"
+            ]
+        },
+        {
+            "keyword": "doğum günü",
+            "taboo_words": [
+                "kek",
+                "Parti",
+                "mumlar",
+                "yıl",
+                "sürpriz"
+            ]
+        },
+        {
+            "keyword": "göletler",
+            "taboo_words": [
+                "balık",
+                "göl",
+                "Su",
+                "kurbağalar",
+                "küçük"
+            ]
+        },
+        {
+            "keyword": "protein",
+            "taboo_words": [
+                "sallamak",
+                "kas",
+                "yer fıstığı",
+                "et",
+                "beslenme"
+            ]
+        },
+        {
+            "keyword": "volkswagen",
+            "taboo_words": [
+                "araba",
+                "böcek",
+                "Almanca",
+                "jetta",
+                "passat"
+            ]
+        },
+        {
+            "keyword": "stadyum",
+            "taboo_words": [
+                "beyzbol",
+                "Futbol",
+                "Spor Dalları",
+                "seyirci",
+                "görünüm"
+            ]
+        },
+        {
+            "keyword": "metro",
+            "taboo_words": [
+                "sandviç",
+                "Dükkan",
+                "Gıda",
+                "inç",
+                "jared"
+            ]
+        },
+        {
+            "keyword": "madalya",
+            "taboo_words": [
+                "Olimpiyat",
+                "altın",
+                "bronz",
+                "gümüş",
+                "atina"
+            ]
+        },
+        {
+            "keyword": "rulo yumurta",
+            "taboo_words": [
+                "Çince",
+                "Gıda",
+                "meze",
+                "kızarmış",
+                "dolgulu"
+            ]
+        },
+        {
+            "keyword": "maksimum",
+            "taboo_words": [
+                "üst",
+                "en yüksek",
+                "Miktar",
+                "asgari",
+                "yükseklik"
+            ]
+        },
+        {
+            "keyword": "eleman",
+            "taboo_words": [
+                "periyodik",
+                "kimya",
+                "tablo",
+                "parça",
+                "Su"
+            ]
+        },
+        {
+            "keyword": "iniş",
+            "taboo_words": [
+                "uçak",
+                "baz",
+                "helikopter",
+                "havalanmak",
+                "iniş"
+            ]
+        },
+        {
+            "keyword": "makas",
+            "taboo_words": [
+                "kesmek",
+                "bıçak",
+                "okul",
+                "kâğıt",
+                "bıçaklar"
+            ]
+        },
+        {
+            "keyword": "karl malone",
+            "taboo_words": [
+                "postacı",
+                "john stockton",
+                "utah",
+                "caz",
+                "Basketbol"
+            ]
+        },
+        {
+            "keyword": "ekmek",
+            "taboo_words": [
+                "sabah",
+                "kahvaltı",
+                "karbonhidrat",
+                "yemek",
+                "buğday"
+            ]
+        },
+        {
+            "keyword": "diz",
+            "taboo_words": [
+                "vücut",
+                "yürümek",
+                "bağlantı",
+                "dirsek",
+                "bacaklar"
+            ]
+        },
+        {
+            "keyword": "Ilık, hafif sıcak",
+            "taboo_words": [
+                "Sıcak",
+                "luke",
+                "soğuk",
+                "hafif",
+                "sıcaklık"
+            ]
+        },
+        {
+            "keyword": "ağ",
+            "taboo_words": [
+                "bilgisayar",
+                "Meslekler",
+                "insanlar",
+                "Internet",
+                "bağ"
+            ]
+        },
+        {
+            "keyword": "şemsiye",
+            "taboo_words": [
+                "yağmur",
+                "açık",
+                "ıslak",
+                "Su",
+                "korumak"
+            ]
+        },
+        {
+            "keyword": "cüzdan",
+            "taboo_words": [
+                "para",
+                "nakit",
+                "kredi kartları",
+                "lisans",
+                "çanta"
+            ]
+        },
+        {
+            "keyword": "verizon",
+            "taboo_words": [
+                "hücre",
+                "telefon",
+                "kablosuz",
+                "ağ",
+                "dolaşmak"
+            ]
+        },
+        {
+            "keyword": "inek öğrenci",
+            "taboo_words": [
+                "Şeker",
+                "tatlı",
+                "salak",
+                "okul",
+                "intikam"
+            ]
+        },
+        {
+            "keyword": "princeton",
+            "taboo_words": [
+                "zorlu",
+                "Üniversite",
+                "kolej",
+                "ders çalışma",
+                "kabul"
+            ]
+        },
+        {
+            "keyword": "güverte",
+            "taboo_words": [
+                "ızgara",
+                "ev",
+                "ev",
+                "sundurma",
+                "Parti"
+            ]
+        },
+        {
+            "keyword": "Pizza",
+            "taboo_words": [
+                "kulübe",
+                "turta",
+                "pepperoni",
+                "Süsleme",
+                "tabak"
+            ]
+        },
+        {
+            "keyword": "muz",
+            "taboo_words": [
+                "maymun",
+                "kayma",
+                "Sarı",
+                "kabuk",
+                "meyve"
+            ]
+        },
+        {
+            "keyword": "karpuz",
+            "taboo_words": [
+                "tohumlar",
+                "Meyve suyu",
+                "yeşil",
+                "pembe",
+                "meyve"
+            ]
+        },
+        {
+            "keyword": "zengin richie",
+            "taboo_words": [
+                "çocuk",
+                "para",
+                "çocuk",
+                "zengin",
+                "kaymak"
+            ]
+        },
+        {
+            "keyword": "kaplumbağa",
+            "taboo_words": [
+                "yavaş ilerleme",
+                "yavaş",
+                "kabuk",
+                "ninja",
+                "tank"
+            ]
+        },
+        {
+            "keyword": "yırtmaç",
+            "taboo_words": [
+                "davulcu",
+                "Şimşek",
+                "Internet",
+                "tuş takımı",
+                "bilgisayar"
+            ]
+        },
+        {
+            "keyword": "takvim",
+            "taboo_words": [
+                "ay",
+                "yıl",
+                "günler",
+                "hafta",
+                "tarih"
+            ]
+        },
+        {
+            "keyword": "Ataç",
+            "taboo_words": [
+                "ambar",
+                "birlikte",
+                "metal",
+                "ofis",
+                "sıra"
+            ]
+        },
+        {
+            "keyword": "Arkadaşlar",
+            "taboo_words": [
+                "televizyon",
+                "ortak",
+                "Arkadaş",
+                "takılmak",
+                "kolej"
+            ]
+        },
+        {
+            "keyword": "cadılar bayramı",
+            "taboo_words": [
+                "Ekim",
+                "korkutucu",
+                "tatil",
+                "kabak",
+                "kostüm"
+            ]
+        },
+        {
+            "keyword": "ucube",
+            "taboo_words": [
+                "super",
+                "tuhaf",
+                "kaçık",
+                "göstermek",
+                "Cuma"
+            ]
+        },
+        {
+            "keyword": "far",
+            "taboo_words": [
+                "geyik",
+                "araba",
+                "ışık",
+                "gece",
+                "sürücü"
+            ]
+        },
+        {
+            "keyword": "kot",
+            "taboo_words": [
+                "giyinmek",
+                "kot",
+                "levi",
+                "pantolon",
+                "gündelik"
+            ]
+        },
+        {
+            "keyword": "doğan",
+            "taboo_words": [
+                "hamile",
+                "hastane",
+                "dokuz ay",
+                "zaman",
+                "tarih"
+            ]
+        },
+        {
+            "keyword": "Google",
+            "taboo_words": [
+                "yahoo",
+                "Internet",
+                "arama motoru",
+                "gmail",
+                "public"
+            ]
+        },
+        {
+            "keyword": "parola",
+            "taboo_words": [
+                "Kullanıcı adı",
+                "anahtar",
+                "E-posta",
+                "Kayıt ol",
+                "işaret"
+            ]
+        },
+        {
+            "keyword": "Ustura",
+            "taboo_words": [
+                "tıraş",
+                "jilet",
+                "yüz",
+                "bıçak ağzı",
+                "saç"
+            ]
+        },
+        {
+            "keyword": "bilgi yarışması",
+            "taboo_words": [
+                "hile",
+                "okul",
+                "Ölçek",
+                "ders çalışma",
+                "sınav"
+            ]
+        },
+        {
+            "keyword": "matt LeBlanc",
+            "taboo_words": [
+                "Arkadaşlar",
+                "Jennifer aniston",
+                "joey",
+                "yan ürün",
+                "televizyon"
+            ]
+        },
+        {
+            "keyword": "birkaç",
+            "taboo_words": [
+                "çok",
+                "az",
+                "çok",
+                "zor",
+                "ipucu"
+            ]
+        },
+        {
+            "keyword": "dartmouth",
+            "taboo_words": [
+                "zorlu",
+                "Üniversite",
+                "kolej",
+                "ders çalışma",
+                "kabul"
+            ]
+        },
+        {
+            "keyword": "lochness",
+            "taboo_words": [
+                "deniz",
+                "canavar",
+                "Su",
+                "efsane",
+                "efsane"
+            ]
+        },
+        {
+            "keyword": "omuz",
+            "taboo_words": [
+                "vücut",
+                "Bölüm",
+                "kafa",
+                "silâh",
+                "Taşımak"
+            ]
+        },
+        {
+            "keyword": "nişan",
+            "taboo_words": [
+                "teklif etmek, önermek",
+                "evlilik",
+                "yüzük",
+                "düğün",
+                "erkek arkadaş"
+            ]
+        },
+        {
+            "keyword": "cilt",
+            "taboo_words": [
+                "Tut",
+                "kâğıtlar",
+                "Klasör",
+                "mağaza",
+                "okul"
+            ]
+        },
+        {
+            "keyword": "Şimşek",
+            "taboo_words": [
+                "ıslak",
+                "yağmur",
+                "gök gürültüsü",
+                "cıvata",
+                "şemsiye"
+            ]
+        },
+        {
+            "keyword": "Golf topu",
+            "taboo_words": [
+                "t şeklinde",
+                "salıncak",
+                "kulüp",
+                "Demir",
+                "Odun"
+            ]
+        },
+        {
+            "keyword": "kedi yavrusu",
+            "taboo_words": [
+                "mırlamak",
+                "miyav",
+                "Evcil Hayvan",
+                "köpek",
+                "kedi"
+            ]
+        },
+        {
+            "keyword": "sunum",
+            "taboo_words": [
+                "priz",
+                "göstermek",
+                "Görüntüle",
+                "gözden geçirmek",
+                "Oral"
+            ]
+        },
+        {
+            "keyword": "kredi kartı",
+            "taboo_words": [
+                "cüzdan",
+                "ödemek",
+                "nakit",
+                "Taşımak",
+                "satın alma"
+            ]
+        },
+        {
+            "keyword": "kar",
+            "taboo_words": [
+                "beyaz",
+                "buz",
+                "soğuk",
+                "yağmur",
+                "pul"
+            ]
+        },
+        {
+            "keyword": "Üniversite",
+            "taboo_words": [
+                "kolej",
+                "lise",
+                "ders çalışma",
+                "derece",
+                "akademik"
+            ]
+        },
+        {
+            "keyword": "ashley olsen",
+            "taboo_words": [
+                "ikizler",
+                "Dolu ev",
+                "komedi",
+                "göstermek",
+                "tanınmış"
+            ]
+        },
+        {
+            "keyword": "dondurucu",
+            "taboo_words": [
+                "soğuk",
+                "mağaza",
+                "Gıda",
+                "Tut",
+                "buz"
+            ]
+        },
+        {
+            "keyword": "kule",
+            "taboo_words": [
+                "Londra",
+                "bekçi",
+                "kraliçe",
+                "yatık",
+                "yüksek"
+            ]
+        },
+        {
+            "keyword": "baba",
+            "taboo_words": [
+                "büyükbaba veya büyükanne",
+                "anne",
+                "baba",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "Biftek",
+            "taboo_words": [
+                "yemek",
+                "kırmızı et",
+                "nadir",
+                "aferin",
+                "fantezi"
+            ]
+        },
+        {
+            "keyword": "Broadway",
+            "taboo_words": [
+                "müzikal",
+                "Oyna",
+                "New York",
+                "aktör",
+                "tiyatro"
+            ]
+        },
+        {
+            "keyword": "hapis",
+            "taboo_words": [
+                "yasa",
+                "ceza",
+                "hapis",
+                "yasadışı",
+                "Barlar"
+            ]
+        },
+        {
+            "keyword": "helyum",
+            "taboo_words": [
+                "balon",
+                "float",
+                "komik",
+                "konuşma",
+                "tank"
+            ]
+        },
+        {
+            "keyword": "iki defa",
+            "taboo_words": [
+                "üç",
+                "iki",
+                "zamanlar",
+                "olmak",
+                "meydana"
+            ]
+        },
+        {
+            "keyword": "yazmak",
+            "taboo_words": [
+                "yazar",
+                "kitabın",
+                "kelimeler",
+                "dolma kalem",
+                "kâğıt"
+            ]
+        },
+        {
+            "keyword": "açıklamak",
+            "taboo_words": [
+                "söylemek",
+                "söyle",
+                "konuşması",
+                "tanımlamak",
+                "iletişim kurmak"
+            ]
+        },
+        {
+            "keyword": "balina",
+            "taboo_words": [
+                "okyanus",
+                "büyük",
+                "masif",
+                "mavi",
+                "moby dick"
+            ]
+        },
+        {
+            "keyword": "poker",
+            "taboo_words": [
+                "floş",
+                "kartları",
+                "tablo",
+                "vegas",
+                "beysbole benzeyen bir top oyunu"
+            ]
+        },
+        {
+            "keyword": "faiz",
+            "taboo_words": [
+                "oran",
+                "ipotek",
+                "ev",
+                "sevmek",
+                "temyiz"
+            ]
+        },
+        {
+            "keyword": "gazete",
+            "taboo_words": [
+                "zamanlar",
+                "okumak",
+                "tribün",
+                "günlük",
+                "nesne"
+            ]
+        },
+        {
+            "keyword": "Billy Joel",
+            "taboo_words": [
+                "Piyano adam",
+                "müzisyen",
+                "şarkıcı",
+                "kör",
+                "ateş"
+            ]
+        },
+        {
+            "keyword": "courtney cox",
+            "taboo_words": [
+                "Arkadaşlar",
+                "Jennifer aniston",
+                "monica",
+                "rachel",
+                "televizyon"
+            ]
+        },
+        {
+            "keyword": "crãme brule",
+            "taboo_words": [
+                "tatlı",
+                "Fransızca",
+                "darbe meşale",
+                "şeker",
+                "kremsi"
+            ]
+        },
+        {
+            "keyword": "hizmet",
+            "taboo_words": [
+                "gaz",
+                "araba",
+                "Oto",
+                "düzeltme",
+                "onarım"
+            ]
+        },
+        {
+            "keyword": "kırılgan",
+            "taboo_words": [
+                "break",
+                "düşürmek",
+                "bardak",
+                "posta",
+                "parçalamak"
+            ]
+        },
+        {
+            "keyword": "yetki",
+            "taboo_words": [
+                "polis",
+                "polisler",
+                "hükümet",
+                "şarj etmek",
+                "kavga"
+            ]
+        },
+        {
+            "keyword": "akım",
+            "taboo_words": [
+                "moda",
+                "stil",
+                "kopya",
+                "taklit etmek",
+                "catch"
+            ]
+        },
+        {
+            "keyword": "Köpekbalığı",
+            "taboo_words": [
+                "diş",
+                "okyanus",
+                "çekiç balığı",
+                "kan",
+                "ağız"
+            ]
+        },
+        {
+            "keyword": "tencere",
+            "taboo_words": [
+                "tava",
+                "su ısıtıcısı",
+                "siyah",
+                "yapışmaz",
+                "pişirmek"
+            ]
+        },
+        {
+            "keyword": "balık",
+            "taboo_words": [
+                "Su",
+                "hayvanlar",
+                "okyanus",
+                "göl",
+                "gölet"
+            ]
+        },
+        {
+            "keyword": "pastel boya",
+            "taboo_words": [
+                "renkler",
+                "crayola",
+                "işaretleyici",
+                "okul",
+                "yazmak"
+            ]
+        },
+        {
+            "keyword": "yastık",
+            "taboo_words": [
+                "yumuşak",
+                "uyku",
+                "yatak",
+                "case",
+                "kafa"
+            ]
+        },
+        {
+            "keyword": "uzun Hikaye",
+            "taboo_words": [
+                "hikaye",
+                "Yalan",
+                "dürüstlük",
+                "aldatma",
+                "short"
+            ]
+        },
+        {
+            "keyword": "al gore",
+            "taboo_words": [
+                "damperli kamyon",
+                "Başkan Vekili",
+                "clinton",
+                "tennesee",
+                "aday"
+            ]
+        },
+        {
+            "keyword": "kızarmak",
+            "taboo_words": [
+                "kırmızı",
+                "make-up",
+                "yüz",
+                "mahçup",
+                "yanaklar"
+            ]
+        },
+        {
+            "keyword": "Sevgililer Günü",
+            "taboo_words": [
+                "Şubat",
+                "kalp",
+                "ayar damgası",
+                "kartları",
+                "Çiçekler"
+            ]
+        },
+        {
+            "keyword": "bant",
+            "taboo_words": [
+                "İskoç",
+                "kanal",
+                "oyuncu",
+                "CD",
+                "müzik"
+            ]
+        },
+        {
+            "keyword": "maymun",
+            "taboo_words": [
+                "muz",
+                "salıncak",
+                "hayvanat bahçesi",
+                "ağaç",
+                "Habeş maymunu"
+            ]
+        },
+        {
+            "keyword": "otobüs durağı",
+            "taboo_words": [
+                "çocuklar",
+                "çocuklar",
+                "Bekle",
+                "Sarı",
+                "okul"
+            ]
+        },
+        {
+            "keyword": "diş fırçası",
+            "taboo_words": [
+                "yapıştırmak",
+                "tıraş",
+                "her",
+                "diş doktoru",
+                "boşluk"
+            ]
+        },
+        {
+            "keyword": "Sezar",
+            "taboo_words": [
+                "kral",
+                "cetvel",
+                "Pizza",
+                "küçük",
+                "imparatorluk"
+            ]
+        },
+        {
+            "keyword": "mikrodalga",
+            "taboo_words": [
+                "fırın",
+                "cihaz",
+                "sıcaklık",
+                "Ilık, hafif sıcak",
+                "Gıda"
+            ]
+        },
+        {
+            "keyword": "Peyton Manning",
+            "taboo_words": [
+                "Oyun kurucu",
+                "taylar",
+                "Futbol",
+                "star",
+                "gol"
+            ]
+        },
+        {
+            "keyword": "panda ekspres",
+            "taboo_words": [
+                "Çince",
+                "Gıda",
+                "Portakal",
+                "tavuk",
+                "hızlı"
+            ]
+        },
+        {
+            "keyword": "saat yedi",
+            "taboo_words": [
+                "zaman",
+                "altı",
+                "beş",
+                "sekiz",
+                "dört"
+            ]
+        },
+        {
+            "keyword": "robot",
+            "taboo_words": [
+                "elektronik",
+                "otomatik",
+                "robocop",
+                "r2d2",
+                "makine"
+            ]
+        },
+        {
+            "keyword": "playtaboo.com",
+            "taboo_words": [
+                "en iyi",
+                "En büyük",
+                "inanılmaz",
+                "ziyaret etmek",
+                "again!"
+            ]
+        },
+        {
+            "keyword": "parfüm",
+            "taboo_words": [
+                "koku",
+                "Güzel",
+                "Çiçekler",
+                "hazır",
+                "sprey"
+            ]
+        },
+        {
+            "keyword": "zeytin yağı",
+            "taboo_words": [
+                "temel reis",
+                "denizci",
+                "pişirmek",
+                "sağlık",
+                "sebze"
+            ]
+        },
+        {
+            "keyword": "tahıl",
+            "taboo_words": [
+                "kâse",
+                "yemek",
+                "kahvaltı",
+                "sabah",
+                "Süt"
+            ]
+        },
+        {
+            "keyword": "helikopter",
+            "taboo_words": [
+                "pervane",
+                "uçmak",
+                "kanatlar",
+                "helikopter pisti",
+                "Haberler"
+            ]
+        },
+        {
+            "keyword": "sözlük",
+            "taboo_words": [
+                "webster",
+                "eşanlamlı sözcük",
+                "kelimeler",
+                "alfabe",
+                "kitap"
+            ]
+        },
+        {
+            "keyword": "güneş",
+            "taboo_words": [
+                "Güneş",
+                "sistem",
+                "Uzay",
+                "Dünya",
+                "Samanyolu"
+            ]
+        },
+        {
+            "keyword": "Jennifer aniston",
+            "taboo_words": [
+                "brad pitt",
+                "rachel",
+                "Arkadaşlar",
+                "aktris",
+                "angelina jolie"
+            ]
+        },
+        {
+            "keyword": "Labrador",
+            "taboo_words": [
+                "köpek",
+                "Golden Retriever",
+                "akıllı",
+                "Evcil Hayvan",
+                "ev"
+            ]
+        },
+        {
+            "keyword": "dolar",
+            "taboo_words": [
+                "cent",
+                "kuruş",
+                "washington",
+                "para",
+                "nakit"
+            ]
+        },
+        {
+            "keyword": "sorumluluk",
+            "taboo_words": [
+                "kanıt",
+                "ağırlık",
+                "aksatmaması",
+                "ayrılmak",
+                "aşağı"
+            ]
+        },
+        {
+            "keyword": "hamile",
+            "taboo_words": [
+                "bebek",
+                "çocuklar",
+                "teslim",
+                "dokuz ay",
+                "karın"
+            ]
+        },
+        {
+            "keyword": "Portakal suyu simpson",
+            "taboo_words": [
+                "Futbol",
+                "eldiven",
+                "johnnie cochran",
+                "işareti Furman",
+                "cinayet"
+            ]
+        },
+        {
+            "keyword": "Süpermen",
+            "taboo_words": [
+                "kahraman",
+                "film",
+                "sinekler",
+                "kriptoniti",
+                "iç çamaşırı"
+            ]
+        },
+        {
+            "keyword": "kepek",
+            "taboo_words": [
+                "beyaz",
+                "saç",
+                "gevreği",
+                "kafa",
+                "şampuan"
+            ]
+        },
+        {
+            "keyword": "koşu",
+            "taboo_words": [
+                "Çalıştırmak",
+                "yürümek",
+                "hızlı",
+                "sabah",
+                "yol"
+            ]
+        },
+        {
+            "keyword": "tilki",
+            "taboo_words": [
+                "hayvan",
+                "kuyruk",
+                "ağ",
+                "orman",
+                "jamie"
+            ]
+        },
+        {
+            "keyword": "charles Barkley",
+            "taboo_words": [
+                "güneşler",
+                "ileri",
+                "Basketbol",
+                "star",
+                "fab 5"
+            ]
+        },
+        {
+            "keyword": "yorumlamak",
+            "taboo_words": [
+                "konuşma",
+                "dil",
+                "kişi",
+                "Yardım",
+                "anlama"
+            ]
+        },
+        {
+            "keyword": "alerji",
+            "taboo_words": [
+                "hapşırık",
+                "öksürük",
+                "polen",
+                "bahar",
+                "mevsim"
+            ]
+        },
+        {
+            "keyword": "Sonraki",
+            "taboo_words": [
+                "sonra",
+                "bir",
+                "önce",
+                "mTV",
+                "kim"
+            ]
+        },
+        {
+            "keyword": "ıslık",
+            "taboo_words": [
+                "hakem",
+                "darbe",
+                "ses",
+                "hakem",
+                "ağız"
+            ]
+        },
+        {
+            "keyword": "dergi",
+            "taboo_words": [
+                "abone ol",
+                "İlan",
+                "posta",
+                "okumak",
+                "haftalık"
+            ]
+        },
+        {
+            "keyword": "pembe",
+            "taboo_words": [
+                "kız",
+                "renk",
+                "ayı",
+                "mavi",
+                "kadın"
+            ]
+        },
+        {
+            "keyword": "termometre",
+            "taboo_words": [
+                "sıcaklık",
+                "sıcaklık",
+                "tedbir",
+                "ateş",
+                "Merkür"
+            ]
+        },
+        {
+            "keyword": "parlak",
+            "taboo_words": [
+                "mükemmel",
+                "mükemmel",
+                "akıllı",
+                "müthiş",
+                "iyi"
+            ]
+        },
+        {
+            "keyword": "karakurbağası",
+            "taboo_words": [
+                "prenses",
+                "kurbağa",
+                "yeşil",
+                "iribaş",
+                "ıslak"
+            ]
+        },
+        {
+            "keyword": "LaDainian tomlinson",
+            "taboo_words": [
+                "Futbol",
+                "geri kaçmak",
+                "şarj",
+                "gol",
+                "mvp"
+            ]
+        },
+        {
+            "keyword": "Alıntı",
+            "taboo_words": [
+                "bilet",
+                "hız yapma",
+                "polis",
+                "yasa",
+                "kenara çekmek"
+            ]
+        },
+        {
+            "keyword": "yeterli durumdadır",
+            "taboo_words": [
+                "yeter",
+                "Miktar",
+                "tamamlayınız",
+                "meli",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "basit",
+            "taboo_words": [
+                "kolay",
+                "hızlı",
+                "karmaşık",
+                "hızlı",
+                "küçük"
+            ]
+        },
+        {
+            "keyword": "Harvard",
+            "taboo_words": [
+                "boston",
+                "Üniversite",
+                "kolej",
+                "ders çalışma",
+                "kabul"
+            ]
+        },
+        {
+            "keyword": "değerlendirme",
+            "taboo_words": [
+                "değer",
+                "Emlak",
+                "maliye",
+                "vergileri",
+                "değer"
+            ]
+        },
+        {
+            "keyword": "kurabiye",
+            "taboo_words": [
+                "Süt",
+                "Noel Baba",
+                "çikolata cipsi",
+                "yulaf üzüm",
+                "yemek"
+            ]
+        },
+        {
+            "keyword": "reçete",
+            "taboo_words": [
+                "ilaç",
+                "eczane",
+                "doktor",
+                "cvs",
+                "doldurma"
+            ]
+        },
+        {
+            "keyword": "bütçe",
+            "taboo_words": [
+                "maliye",
+                "plan",
+                "kiralık",
+                "aylık",
+                "yıllık"
+            ]
+        },
+        {
+            "keyword": "kovboy",
+            "taboo_words": [
+                "bot ayakkabı",
+                "at",
+                "mahmuzlar",
+                "dallas",
+                "Teksas"
+            ]
+        },
+        {
+            "keyword": "Hindistan",
+            "taboo_words": [
+                "milyar",
+                "insanlar",
+                "Hintçe",
+                "demokrasi",
+                "Asya"
+            ]
+        },
+        {
+            "keyword": "öksürük",
+            "taboo_words": [
+                "ağız",
+                "hasta",
+                "hasta",
+                "boğaz",
+                "hapşırık"
+            ]
+        },
+        {
+            "keyword": "kız kardeş",
+            "taboo_words": [
+                "erkek kardeş",
+                "baba",
+                "anne",
+                "kardeş",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "Yıldız Savaşları",
+            "taboo_words": [
+                "yıldızgemisi",
+                "kuruluş",
+                "kirk",
+                "picard",
+                "Bilim kurgu"
+            ]
+        },
+        {
+            "keyword": "yönetmek",
+            "taboo_words": [
+                "kural",
+                "kurmak",
+                "izlemek",
+                "başkanlık etmek",
+                "dikte"
+            ]
+        },
+        {
+            "keyword": "gerçek dünya",
+            "taboo_words": [
+                "mTV",
+                "göstermek",
+                "gerçeklik",
+                "iş",
+                "kolej"
+            ]
+        },
+        {
+            "keyword": "komşu",
+            "taboo_words": [
+                "canlı",
+                "Sonraki",
+                "ev",
+                "kişi",
+                "sokak"
+            ]
+        },
+        {
+            "keyword": "işaretleyici",
+            "taboo_words": [
+                "çizmek",
+                "çocuklar",
+                "crayola",
+                "yazma aracı",
+                "Sanat"
+            ]
+        },
+        {
+            "keyword": "teknik",
+            "taboo_words": [
+                "faul",
+                "cesur",
+                "doğru",
+                "Görünüş",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "sabun",
+            "taboo_words": [
+                "temiz",
+                "güvercin",
+                "lezzet",
+                "duş",
+                "kir"
+            ]
+        },
+        {
+            "keyword": "rota",
+            "taboo_words": [
+                "Futbol",
+                "otobüs",
+                "talimatlar",
+                "yol",
+                "yol"
+            ]
+        },
+        {
+            "keyword": "taslak",
+            "taboo_words": [
+                "Spor Dalları",
+                "askeri",
+                "toplamak",
+                "seçmek",
+                "Seç"
+            ]
+        },
+        {
+            "keyword": "denver",
+            "taboo_words": [
+                "coors",
+                "yüksek mil",
+                "Sox",
+                "Kent",
+                "colorado"
+            ]
+        },
+        {
+            "keyword": "tırnak",
+            "taboo_words": [
+                "kesmek",
+                "el",
+                "Lehçe",
+                "sahte",
+                "manikür"
+            ]
+        },
+        {
+            "keyword": "dwayne wade",
+            "taboo_words": [
+                "Miami Heat",
+                "bekçi",
+                "Basketbol",
+                "star",
+                "fab 5"
+            ]
+        },
+        {
+            "keyword": "temiz",
+            "taboo_words": [
+                "dağınıklık",
+                "çöp",
+                "kirli",
+                "ev",
+                "hizmetçi"
+            ]
+        },
+        {
+            "keyword": "Eşitlik",
+            "taboo_words": [
+                "stok, mevcut",
+                "private",
+                "ev",
+                "ipotek",
+                "faiz"
+            ]
+        },
+        {
+            "keyword": "Kobe Bryant",
+            "taboo_words": [
+                "kolza",
+                "lakers",
+                "Basketbol",
+                "star",
+                "Los Angeles"
+            ]
+        },
+        {
+            "keyword": "ülke",
+            "taboo_words": [
+                "Amerika",
+                "durum",
+                "Kent",
+                "yönetmek",
+                "map"
+            ]
+        },
+        {
+            "keyword": "hala kızı",
+            "taboo_words": [
+                "erkek kardeş",
+                "baba",
+                "anne",
+                "kız kardeş",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "çiçekçi Kız",
+            "taboo_words": [
+                "düğün",
+                "evlilik",
+                "yürümek",
+                "koridor",
+                "yaprakları"
+            ]
+        },
+        {
+            "keyword": "tatil",
+            "taboo_words": [
+                "aile",
+                "gezi",
+                "meşgul",
+                "dinlenme",
+                "soğuk"
+            ]
+        },
+        {
+            "keyword": "pil",
+            "taboo_words": [
+                "uzak",
+                "kontrol",
+                "fiş",
+                "triple_a",
+                "güç"
+            ]
+        },
+        {
+            "keyword": "lacivert iskele",
+            "taboo_words": [
+                "Chicago",
+                "turist",
+                "cazibe",
+                "dönme dolap",
+                "göl"
+            ]
+        },
+        {
+            "keyword": "doğru",
+            "taboo_words": [
+                "yanlış",
+                "Cevap",
+                "sağ",
+                "soru",
+                "kesin"
+            ]
+        },
+        {
+            "keyword": "piskopos",
+            "taboo_words": [
+                "satranç",
+                "parça",
+                "kale",
+                "kral",
+                "diagnol"
+            ]
+        },
+        {
+            "keyword": "Çin Pekin Yao nüfus milyar Asya",
+            "taboo_words": [
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "keyword": "canavar",
+            "taboo_words": [
+                "yatak",
+                "dolap",
+                "korkuttu",
+                "korkmuş",
+                "çocuklar"
+            ]
+        },
+        {
+            "keyword": "olimpiyatlar",
+            "taboo_words": [
+                "altın",
+                "bronz",
+                "gümüş",
+                "sporcular",
+                "halkalar"
+            ]
+        },
+        {
+            "keyword": "alkış",
+            "taboo_words": [
+                "tezahürat",
+                "kalabalık",
+                "alkış",
+                "seyirci",
+                "ayakta durmak"
+            ]
+        },
+        {
+            "keyword": "Burger kralı",
+            "taboo_words": [
+                "kuyruklu yalan",
+                "mcdonalds",
+                "wendys",
+                "Arbys",
+                "Fast food"
+            ]
+        },
+        {
+            "keyword": "kask",
+            "taboo_words": [
+                "korumak",
+                "kafa",
+                "motosiklet",
+                "Futbol",
+                "Spor Dalları"
+            ]
+        },
+        {
+            "keyword": "geleceğe Dönüş",
+            "taboo_words": [
+                "michael j. tilki",
+                "film",
+                "film",
+                "lloyd",
+                "zaman yolculuğu"
+            ]
+        },
+        {
+            "keyword": "hakim",
+            "taboo_words": [
+                "karar",
+                "jüri",
+                "avukat",
+                "savunma",
+                "başkanlık etmek"
+            ]
+        },
+        {
+            "keyword": "hip hop",
+            "taboo_words": [
+                "tıklatma",
+                "müzik",
+                "argo",
+                "sanatçı",
+                "kanye"
+            ]
+        },
+        {
+            "keyword": "volkan",
+            "taboo_words": [
+                "patlamak",
+                "lav",
+                "dağ",
+                "Hawaii",
+                "Sıcak"
+            ]
+        },
+        {
+            "keyword": "kurgusal olmayan bir",
+            "taboo_words": [
+                "kütüphane",
+                "kitabın",
+                "ansiklopedi",
+                "referans",
+                "Bölüm"
+            ]
+        },
+        {
+            "keyword": "İletişim",
+            "taboo_words": [
+                "telefon etmek",
+                "e-mail",
+                "soru",
+                "sorun",
+                "destek"
+            ]
+        },
+        {
+            "keyword": "aşk tanrısı",
+            "taboo_words": [
+                "ok",
+                "kalp",
+                "sevgili",
+                "Şubat",
+                "kalp"
+            ]
+        },
+        {
+            "keyword": "Tornavida",
+            "taboo_words": [
+                "vida",
+                "duvar",
+                "asmak",
+                "araç",
+                "büküm"
+            ]
+        },
+        {
+            "keyword": "tutkal",
+            "taboo_words": [
+                "yapışkan",
+                "Elmers",
+                "beyaz",
+                "bağlamak",
+                "marangoz"
+            ]
+        },
+        {
+            "keyword": "vuruş",
+            "taboo_words": [
+                "kâse",
+                "isabet",
+                "top",
+                "Saha",
+                "dışarı"
+            ]
+        },
+        {
+            "keyword": "ay",
+            "taboo_words": [
+                "Güneş",
+                "gezegen",
+                "daire",
+                "Uzay",
+                "armstrong"
+            ]
+        },
+        {
+            "keyword": "tanınmış",
+            "taboo_words": [
+                "şöhret",
+                "aktör",
+                "atlet",
+                "bilinen",
+                "insanlar"
+            ]
+        },
+        {
+            "keyword": "kansas",
+            "taboo_words": [
+                "dorothy",
+                "sihirbaz oz",
+                "ev",
+                "ayakkabı",
+                "durum"
+            ]
+        },
+        {
+            "keyword": "iş",
+            "taboo_words": [
+                "wall street journal",
+                "okul",
+                "mezun olmak",
+                "başlamak",
+                "ekonomi"
+            ]
+        },
+        {
+            "keyword": "belge",
+            "taboo_words": [
+                "kâğıt",
+                "iş çantası",
+                "Microsoft Word",
+                "dosya",
+                "new"
+            ]
+        },
+        {
+            "keyword": "Bodrum kat",
+            "taboo_words": [
+                "alt kat",
+                "depolama",
+                "ev",
+                "ev",
+                "bitiş"
+            ]
+        },
+        {
+            "keyword": "Anma Günü",
+            "taboo_words": [
+                "Mayıs",
+                "tatil",
+                "bahar",
+                "düğün",
+                "askerler"
+            ]
+        },
+        {
+            "keyword": "anekdot",
+            "taboo_words": [
+                "hikaye",
+                "eğlence",
+                "nutuk çekmek",
+                "hatlar",
+                "röportaj"
+            ]
+        },
+        {
+            "keyword": "Cevaplama makinesi",
+            "taboo_words": [
+                "telefon",
+                "hücre",
+                "İleti",
+                "ayrılmak",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "mario kardeşler",
+            "taboo_words": [
+                "luigi",
+                "yoshi",
+                "mantar",
+                "nintendo",
+                "video oyunu"
+            ]
+        },
+        {
+            "keyword": "Limon",
+            "taboo_words": [
+                "tohumlar",
+                "Meyve suyu",
+                "yeşil",
+                "Sarı",
+                "meyve"
+            ]
+        },
+        {
+            "keyword": "yatırım",
+            "taboo_words": [
+                "return",
+                "faiz",
+                "para",
+                "Depozito",
+                "nakit"
+            ]
+        },
+        {
+            "keyword": "Pizza Hut",
+            "taboo_words": [
+                "Gıda",
+                "restoran",
+                "gressini",
+                "biber",
+                "çatı"
+            ]
+        },
+        {
+            "keyword": "tavan",
+            "taboo_words": [
+                "çatı",
+                "zemin",
+                "zemin",
+                "yükseklik",
+                "yukarıda"
+            ]
+        },
+        {
+            "keyword": "las vegas",
+            "taboo_words": [
+                "kumarhane",
+                "otel",
+                "şerit",
+                "oyun alanı",
+                "Eyfel Kulesi"
+            ]
+        },
+        {
+            "keyword": "el çantası",
+            "taboo_words": [
+                "Çubuk",
+                "vites",
+                "kapmak",
+                "vardiya",
+                "sıkı"
+            ]
+        },
+        {
+            "keyword": "Perşembe",
+            "taboo_words": [
+                "Cuma",
+                "Çarşamba",
+                "günler",
+                "iki",
+                "Havva"
+            ]
+        },
+        {
+            "keyword": "çığ",
+            "taboo_words": [
+                "kar",
+                "dağlar",
+                "düşen",
+                "kayak yapma",
+                "kış"
+            ]
+        },
+        {
+            "keyword": "ann arbor",
+            "taboo_words": [
+                "Üniversite",
+                "Michigan",
+                "Porsuklar",
+                "mavi",
+                "altın"
+            ]
+        },
+        {
+            "keyword": "larry king",
+            "taboo_words": [
+                "televizyon",
+                "cnn",
+                "göstermek",
+                "Ulusal",
+                "canlı"
+            ]
+        },
+        {
+            "keyword": "omlet",
+            "taboo_words": [
+                "kahvaltı",
+                "yumurtalar",
+                "yumurta sarısı",
+                "beyaz",
+                "yemek"
+            ]
+        },
+        {
+            "keyword": "kurgu",
+            "taboo_words": [
+                "kütüphane",
+                "kitabın",
+                "Roman",
+                "hikaye",
+                "Bölüm"
+            ]
+        },
+        {
+            "keyword": "sıcaklık",
+            "taboo_words": [
+                "Sıcak",
+                "soğuk",
+                "hava",
+                "dışarıda",
+                "derece"
+            ]
+        },
+        {
+            "keyword": "aranan",
+            "taboo_words": [
+                "el ilanı",
+                "şerif",
+                "çoğu",
+                "Amerika",
+                "afiş"
+            ]
+        },
+        {
+            "keyword": "itfaiye kamyonu",
+            "taboo_words": [
+                "kırmızı",
+                "siren",
+                "acil Durum",
+                "hortum",
+                "alev"
+            ]
+        },
+        {
+            "keyword": "tabak",
+            "taboo_words": [
+                "daire",
+                "yemek",
+                "Gıda",
+                "ambar",
+                "tablo"
+            ]
+        },
+        {
+            "keyword": "para",
+            "taboo_words": [
+                "satın",
+                "nakit",
+                "banka",
+                "yağma",
+                "maaş"
+            ]
+        },
+        {
+            "keyword": "karaciğer",
+            "taboo_words": [
+                "kıyılmış",
+                "organ",
+                "vücut",
+                "İçmek",
+                "sağlık"
+            ]
+        },
+        {
+            "keyword": "geniş kenarlı şapka",
+            "taboo_words": [
+                "şapka",
+                "Meksika",
+                "kafa",
+                "İspanyol",
+                "yuvarlak"
+            ]
+        },
+        {
+            "keyword": "kaba",
+            "taboo_words": [
+                "zorlu",
+                "zor",
+                "zor",
+                "kenar",
+                "zımpara"
+            ]
+        },
+        {
+            "keyword": "riziko",
+            "taboo_words": [
+                "alex Trebek",
+                "oyun şovu",
+                "Çarkıfelek",
+                "yarışmacılar",
+                "double"
+            ]
+        },
+        {
+            "keyword": "jet ski",
+            "taboo_words": [
+                "okyanus",
+                "Su",
+                "Spor Dalları",
+                "tekne",
+                "Çek"
+            ]
+        },
+        {
+            "keyword": "plazma",
+            "taboo_words": [
+                "televizyon",
+                "lcd",
+                "projeksiyon",
+                "inç",
+                "görünüm"
+            ]
+        },
+        {
+            "keyword": "pirinç",
+            "taboo_words": [
+                "buğday",
+                "tane",
+                "Gıda",
+                "Asya",
+                "beyaz"
+            ]
+        },
+        {
+            "keyword": "hücre",
+            "taboo_words": [
+                "ofis",
+                "Uzay",
+                "iş",
+                "iş",
+                "bilgisayar"
+            ]
+        },
+        {
+            "keyword": "madonna",
+            "taboo_words": [
+                "britney spears",
+                "kutlamak",
+                "pop",
+                "şarkıcı",
+                "müzik"
+            ]
+        },
+        {
+            "keyword": "havai fişek",
+            "taboo_words": [
+                "4 Temmuz",
+                "Bağımsızlık Günü",
+                "pırıltı",
+                "gökyüzü",
+                "disney"
+            ]
+        },
+        {
+            "keyword": "buz kutusu",
+            "taboo_words": [
+                "soğuk",
+                "mağaza",
+                "soğutucu",
+                "Tut",
+                "buz"
+            ]
+        },
+        {
+            "keyword": "Yardım",
+            "taboo_words": [
+                "s.o.s",
+                "yardım",
+                "ihtiyaç",
+                "başarmak",
+                "telefon etmek"
+            ]
+        },
+        {
+            "keyword": "kral",
+            "taboo_words": [
+                "kraliçe",
+                "satranç",
+                "Şah Mat",
+                "imtiyaz",
+                "kafa"
+            ]
+        },
+        {
+            "keyword": "illinois",
+            "taboo_words": [
+                "Chicago",
+                "midwest",
+                "wisconsin",
+                "indiana",
+                "durum"
+            ]
+        },
+        {
+            "keyword": "uygulama",
+            "taboo_words": [
+                "kabul etmek",
+                "inkar",
+                "Kabul et",
+                "kolej",
+                "okul"
+            ]
+        },
+        {
+            "keyword": "gülmek",
+            "taboo_words": [
+                "şaka",
+                "bilmece",
+                "komik",
+                "gülümsemek",
+                "hoşgörmemek"
+            ]
+        },
+        {
+            "keyword": "kitap",
+            "taboo_words": [
+                "okumak",
+                "telefon",
+                "sayfalar",
+                "örtmek",
+                "hikaye"
+            ]
+        },
+        {
+            "keyword": "yazar",
+            "taboo_words": [
+                "kitap",
+                "yazmak",
+                "dolma kalem",
+                "isim",
+                "Mark Twain"
+            ]
+        },
+        {
+            "keyword": "grubun peşine takılan kız",
+            "taboo_words": [
+                "beatles",
+                "yuvarlanan taşlar",
+                "ile seyahat",
+                "Rock grubu",
+                "müzik"
+            ]
+        },
+        {
+            "keyword": "kızarmış ekmek",
+            "taboo_words": [
+                "jöle",
+                "kahvaltı",
+                "karbonhidrat",
+                "yemek",
+                "buğday"
+            ]
+        },
+        {
+            "keyword": "mahkeme",
+            "taboo_words": [
+                "hakim",
+                "karar",
+                "jüri",
+                "avukat",
+                "savunma"
+            ]
+        },
+        {
+            "keyword": "floş",
+            "taboo_words": [
+                "tuvalet",
+                "poker",
+                "takım elbise",
+                "banyo",
+                "Kraliyet"
+            ]
+        },
+        {
+            "keyword": "sertifika",
+            "taboo_words": [
+                "ödül",
+                "kâğıt",
+                "ganimet",
+                "mevcut",
+                "tamamlayınız"
+            ]
+        },
+        {
+            "keyword": "iş günü",
+            "taboo_words": [
+                "Eylül",
+                "tatil",
+                "yaz",
+                "düğün",
+                "iş"
+            ]
+        },
+        {
+            "keyword": "ağaç",
+            "taboo_words": [
+                "şube",
+                "gövde",
+                "Odun",
+                "kâğıt",
+                "bitki"
+            ]
+        },
+        {
+            "keyword": "atlama",
+            "taboo_words": [
+                "İp",
+                "atlama",
+                "atlamak",
+                "sıçrama",
+                "engel"
+            ]
+        },
+        {
+            "keyword": "sundurma",
+            "taboo_words": [
+                "ızgara",
+                "ev",
+                "ev",
+                "güverte",
+                "Parti"
+            ]
+        },
+        {
+            "keyword": "dil",
+            "taboo_words": [
+                "ingilizce",
+                "Fransızca",
+                "konuşması",
+                "İspanyol",
+                "Yunan"
+            ]
+        },
+        {
+            "keyword": "alfabe",
+            "taboo_words": [
+                "harfler",
+                "26",
+                "sesli harfler",
+                "harf harf kodlamak",
+                "şarkı"
+            ]
+        },
+        {
+            "keyword": "Noel",
+            "taboo_words": [
+                "şükran Günü",
+                "Aralık",
+                "tatil",
+                "yeni yıl",
+                "hediyeler"
+            ]
+        },
+        {
+            "keyword": "Antik",
+            "taboo_words": [
+                "eski",
+                "çağ",
+                "yaş",
+                "modern",
+                "Tarih"
+            ]
+        },
+        {
+            "keyword": "vatoz",
+            "taboo_words": [
+                "steve irwin",
+                "kapak",
+                "okyanus",
+                "zehir",
+                "Su"
+            ]
+        },
+        {
+            "keyword": "çatlak",
+            "taboo_words": [
+                "hafiye",
+                "break",
+                "düşürmek",
+                "bardak",
+                "kırılgan"
+            ]
+        },
+        {
+            "keyword": "fantezi",
+            "taboo_words": [
+                "Futbol",
+                "rüya",
+                "hayal etmek",
+                "Spor Dalları",
+                "istatistikler"
+            ]
+        },
+        {
+            "keyword": "tug-of-war",
+            "taboo_words": [
+                "oyun",
+                "Oyna",
+                "İp",
+                "piknik",
+                "köpek"
+            ]
+        },
+        {
+            "keyword": "demokrat",
+            "taboo_words": [
+                "Bill Clinton",
+                "obama",
+                "Parti",
+                "siyasi",
+                "eşek"
+            ]
+        },
+        {
+            "keyword": "neredeyse",
+            "taboo_words": [
+                "kapat",
+                "puro",
+                "short",
+                "Özlemek",
+                "girişim"
+            ]
+        },
+        {
+            "keyword": "hafta",
+            "taboo_words": [
+                "Yedi",
+                "günler",
+                "ay",
+                "takvim",
+                "yıl"
+            ]
+        },
+        {
+            "keyword": "seminer",
+            "taboo_words": [
+                "öğretme",
+                "öğrenmek",
+                "iş",
+                "Eğitim",
+                "Eğitim"
+            ]
+        },
+        {
+            "keyword": "nintendo",
+            "taboo_words": [
+                "Oyna",
+                "kontrolör",
+                "xbox",
+                "oyun istasyonu",
+                "video oyunu"
+            ]
+        },
+        {
+            "keyword": "hapis",
+            "taboo_words": [
+                "yasa",
+                "ceza",
+                "polis",
+                "yasadışı",
+                "Barlar"
+            ]
+        },
+        {
+            "keyword": "gözlük",
+            "taboo_words": [
+                "yüzmek",
+                "göz",
+                "görmek",
+                "kayak",
+                "giyinmek"
+            ]
+        },
+        {
+            "keyword": "kar arabası",
+            "taboo_words": [
+                "beyaz",
+                "buz",
+                "soğuk",
+                "temiz",
+                "it"
+            ]
+        },
+        {
+            "keyword": "Donovan mcnabb",
+            "taboo_words": [
+                "Oyun kurucu",
+                "kartallar",
+                "Futbol",
+                "star",
+                "gol"
+            ]
+        },
+        {
+            "keyword": "şelale",
+            "taboo_words": [
+                "güzellik",
+                "yer",
+                "doğa",
+                "uçurum",
+                "göl"
+            ]
+        },
+        {
+            "keyword": "kiralama",
+            "taboo_words": [
+                "işçi",
+                "patron",
+                "yönetici",
+                "acemi",
+                "iş"
+            ]
+        },
+        {
+            "keyword": "podyum",
+            "taboo_words": [
+                "model",
+                "moda şovu",
+                "koşu yolu",
+                "heidi Klum",
+                "bruce"
+            ]
+        },
+        {
+            "keyword": "şişeler",
+            "taboo_words": [
+                "bira",
+                "İçmek",
+                "bardak",
+                "kırık",
+                "sıvı"
+            ]
+        },
+        {
+            "keyword": "elmas",
+            "taboo_words": [
+                "yüzük",
+                "kırat",
+                "mücevher",
+                "bardak",
+                "yüzük"
+            ]
+        },
+        {
+            "keyword": "yönetici",
+            "taboo_words": [
+                "gözden geçirmek",
+                "patron",
+                "iş",
+                "iş",
+                "Çalıştırmak"
+            ]
+        },
+        {
+            "keyword": "robin williams",
+            "taboo_words": [
+                "aktör",
+                "komedyen",
+                "Bayan. doubtfire",
+                "komik",
+                "ses"
+            ]
+        },
+        {
+            "keyword": "Eddie Murphy",
+            "taboo_words": [
+                "aktör",
+                "komedyen",
+                "Beverly Tepeleri",
+                "eşek",
+                "ses"
+            ]
+        },
+        {
+            "keyword": "Portakal",
+            "taboo_words": [
+                "tohumlar",
+                "Meyve suyu",
+                "elma",
+                "kabuk",
+                "meyve"
+            ]
+        },
+        {
+            "keyword": "seviye",
+            "taboo_words": [
+                "Düz",
+                "rütbe",
+                "oyun",
+                "araç",
+                "tedbir"
+            ]
+        },
+        {
+            "keyword": "bulutlar",
+            "taboo_words": [
+                "kabarık",
+                "hava",
+                "uçmak",
+                "gökyüzü",
+                "beyaz"
+            ]
+        },
+        {
+            "keyword": "anne",
+            "taboo_words": [
+                "büyükbaba veya büyükanne",
+                "baba",
+                "anne",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "cetvel",
+            "taboo_words": [
+                "12",
+                "inç",
+                "ayak",
+                "tedbir",
+                "okul"
+            ]
+        },
+        {
+            "keyword": "minnie mouse",
+            "taboo_words": [
+                "orlando",
+                "Donald Duck",
+                "disney",
+                "karakter",
+                "sihirli"
+            ]
+        },
+        {
+            "keyword": "Tür",
+            "taboo_words": [
+                "kategori",
+                "film",
+                "müzik",
+                "tip",
+                "sınıflandırmak"
+            ]
+        },
+        {
+            "keyword": "pusula",
+            "taboo_words": [
+                "yön",
+                "kuzeyinde",
+                "güney",
+                "Doğu",
+                "batı"
+            ]
+        },
+        {
+            "keyword": "Eğitim",
+            "taboo_words": [
+                "derece",
+                "okul",
+                "diploma",
+                "öğrenmek",
+                "sınıf"
+            ]
+        },
+        {
+            "keyword": "acı biber",
+            "taboo_words": [
+                "Meksikalı",
+                "Gıda",
+                "burrito",
+                "mcdonalds",
+                "son"
+            ]
+        },
+        {
+            "keyword": "sıvı yağ",
+            "taboo_words": [
+                "pişirmek",
+                "gaz",
+                "dökmek",
+                "varil",
+                "fiyat"
+            ]
+        },
+        {
+            "keyword": "mantar",
+            "taboo_words": [
+                "zemin",
+                "yemek",
+                "sebze",
+                "portabella",
+                "Şirinler"
+            ]
+        },
+        {
+            "keyword": "kuzey kanadı",
+            "taboo_words": [
+                "Beyaz Saray",
+                "uçmak",
+                "güney",
+                "Doğu",
+                "batı"
+            ]
+        },
+        {
+            "keyword": "kardinal",
+            "taboo_words": [
+                "kuş",
+                "kırmızı",
+                "cıvıldamak",
+                "bahar",
+                "piskopos"
+            ]
+        },
+        {
+            "keyword": "samimi",
+            "taboo_words": [
+                "dürüst",
+                "güven",
+                "sadık",
+                "true",
+                "gerçek"
+            ]
+        },
+        {
+            "keyword": "havalimanı",
+            "taboo_words": [
+                "seyahat",
+                "uçak",
+                "taşımacılık",
+                "otobüs",
+                "tren"
+            ]
+        },
+        {
+            "keyword": "Mermerler",
+            "taboo_words": [
+                "taşaklar",
+                "küçük",
+                "rulo",
+                "vuruş",
+                "oyun"
+            ]
+        },
+        {
+            "keyword": "Nene",
+            "taboo_words": [
+                "nesil",
+                "baba",
+                "anne",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "profesör",
+            "taboo_words": [
+                "öğretmen",
+                "okul",
+                "class",
+                "çocuklar",
+                "öğrenmek"
+            ]
+        },
+        {
+            "keyword": "eğitmenler",
+            "taboo_words": [
+                "Jimnastik",
+                "Spor ayakkabı",
+                "çalışan",
+                "ayaklar",
+                "giyinmek"
+            ]
+        },
+        {
+            "keyword": "porsche",
+            "taboo_words": [
+                "araba",
+                "hızlı",
+                "boxster",
+                "hız",
+                "acayip"
+            ]
+        },
+        {
+            "keyword": "kız torun",
+            "taboo_words": [
+                "nesil",
+                "çocuklar",
+                "anne",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "sit-ups",
+            "taboo_words": [
+                "şınav",
+                "egzersiz yapmak",
+                "abs",
+                "çatırtı",
+                "six-pack"
+            ]
+        },
+        {
+            "keyword": "Öğrenci",
+            "taboo_words": [
+                "öğretmen",
+                "okul",
+                "class",
+                "çocuklar",
+                "öğrenmek"
+            ]
+        },
+        {
+            "keyword": "Rahatlayın",
+            "taboo_words": [
+                "tatil",
+                "gezi",
+                "meşgul",
+                "dinlenme",
+                "soğuk"
+            ]
+        },
+        {
+            "keyword": "karayolu",
+            "taboo_words": [
+                "yol",
+                "sokak",
+                "Otoban",
+                "hayat",
+                "sürücü"
+            ]
+        },
+        {
+            "keyword": "avize",
+            "taboo_words": [
+                "ışıklar",
+                "tavan",
+                "kristal",
+                "yüksek",
+                "fantezi"
+            ]
+        },
+        {
+            "keyword": "artıkyıl",
+            "taboo_words": [
+                "Şubat",
+                "günler",
+                "atlamak",
+                "dört",
+                "her"
+            ]
+        },
+        {
+            "keyword": "şaka yapıyorum",
+            "taboo_words": [
+                "şaka",
+                "bilmece",
+                "gülme",
+                "ahmaklık",
+                "hile"
+            ]
+        },
+        {
+            "keyword": "gökkuşağı",
+            "taboo_words": [
+                "cüce cin",
+                "renkler",
+                "Roy g BIV",
+                "altın",
+                "yağmur"
+            ]
+        },
+        {
+            "keyword": "Wachovia",
+            "taboo_words": [
+                "banka",
+                "ipotek",
+                "borç",
+                "stok, mevcut",
+                "komisyoncu"
+            ]
+        },
+        {
+            "keyword": "musluk",
+            "taboo_words": [
+                "Su",
+                "lavabo",
+                "oluk ağzı",
+                "sızıntı",
+                "üstesinden gelmek"
+            ]
+        },
+        {
+            "keyword": "Ilgilenen",
+            "taboo_words": [
+                "yer",
+                "zevk almak",
+                "hobi",
+                "Pashion",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "dram",
+            "taboo_words": [
+                "Tür",
+                "kraliçe",
+                "sabun",
+                "film",
+                "kitap"
+            ]
+        },
+        {
+            "keyword": "kesinlikle",
+            "taboo_words": [
+                "kesin",
+                "Miktar",
+                "anlama",
+                "true",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "Çarkıfelek",
+            "taboo_words": [
+                "pat Sajak",
+                "vanna beyaz",
+                "oyun şovu",
+                "riziko",
+                "bulmaca"
+            ]
+        },
+        {
+            "keyword": "daktilo",
+            "taboo_words": [
+                "bilgisayar",
+                "hızlı",
+                "yazmak",
+                "bilgisayar",
+                "hızlı"
+            ]
+        },
+        {
+            "keyword": "bildiri",
+            "taboo_words": [
+                "kitap",
+                "yukarıda",
+                "yönetici",
+                "özet",
+                "konuşması"
+            ]
+        },
+        {
+            "keyword": "karbonatlı",
+            "taboo_words": [
+                "kok",
+                "soda",
+                "pop",
+                "İçmek",
+                "Su"
+            ]
+        },
+        {
+            "keyword": "peri",
+            "taboo_words": [
+                "kok",
+                "pop",
+                "İçmek",
+                "Yapabilmek",
+                "otomat"
+            ]
+        },
+        {
+            "keyword": "liberal",
+            "taboo_words": [
+                "demokrat",
+                "muhafazakâr",
+                "değişiklik",
+                "eşek",
+                "sanat"
+            ]
+        },
+        {
+            "keyword": "müze",
+            "taboo_words": [
+                "Sanat",
+                "Bilim",
+                "Tarih",
+                "eserler",
+                "Görüntüle"
+            ]
+        },
+        {
+            "keyword": "ızgara",
+            "taboo_words": [
+                "soru",
+                "Barbekü",
+                "Burger",
+                "tavuk",
+                "Mısır"
+            ]
+        },
+        {
+            "keyword": "Waverunner",
+            "taboo_words": [
+                "okyanus",
+                "Su",
+                "Spor Dalları",
+                "tekne",
+                "yarış"
+            ]
+        },
+        {
+            "keyword": "brian Urlacher",
+            "taboo_words": [
+                "linebacker",
+                "vahşi ayılar",
+                "savunma",
+                "star",
+                "Futbol"
+            ]
+        },
+        {
+            "keyword": "Victoria Beckham",
+            "taboo_words": [
+                "david",
+                "baharat Kızlar",
+                "ingilizce",
+                "Futbol",
+                "brooklyn & romeo"
+            ]
+        },
+        {
+            "keyword": "elma",
+            "taboo_words": [
+                "bilgisayar",
+                "steve jobs",
+                "meyve",
+                "Portakal",
+                "kırmızı"
+            ]
+        },
+        {
+            "keyword": "tütsü",
+            "taboo_words": [
+                "koku",
+                "yanmak",
+                "Çubuk",
+                "Asya",
+                "ışık"
+            ]
+        },
+        {
+            "keyword": "sanık",
+            "taboo_words": [
+                "Soruşturma",
+                "mahkeme",
+                "yasa",
+                "hakim",
+                "avukat"
+            ]
+        },
+        {
+            "keyword": "vampir",
+            "taboo_words": [
+                "diş",
+                "kan",
+                "tabut",
+                "ölü",
+                "gece"
+            ]
+        },
+        {
+            "keyword": "çarpma sesi",
+            "taboo_words": [
+                "sonbahar",
+                "aşağı",
+                "poker",
+                "çevirmek",
+                "nehir"
+            ]
+        },
+        {
+            "keyword": "çan kulesi",
+            "taboo_words": [
+                "kilise",
+                "uzun boylu",
+                "çapraz",
+                "kapılar",
+                "kule"
+            ]
+        },
+        {
+            "keyword": "peçete",
+            "taboo_words": [
+                "kağıt mendil",
+                "kâğıt",
+                "bez",
+                "temiz",
+                "burun"
+            ]
+        },
+        {
+            "keyword": "kek",
+            "taboo_words": [
+                "doğum günü",
+                "pişirmek",
+                "daire",
+                "dondurma",
+                "buzlanma"
+            ]
+        },
+        {
+            "keyword": "açık arttırma",
+            "taboo_words": [
+                "ebay",
+                "tokmak",
+                "satıldı",
+                "teklif",
+                "antikalar"
+            ]
+        },
+        {
+            "keyword": "kırmızı",
+            "taboo_words": [
+                "kalp",
+                "renk",
+                "Portakal",
+                "ateş",
+                "Sıcak"
+            ]
+        },
+        {
+            "keyword": "Çarşamba",
+            "taboo_words": [
+                "Salı",
+                "Perşembe",
+                "günler",
+                "iki",
+                "Havva"
+            ]
+        },
+        {
+            "keyword": "sünger",
+            "taboo_words": [
+                "tabak",
+                "sabun",
+                "temiz",
+                "şilin",
+                "emmek"
+            ]
+        },
+        {
+            "keyword": "ok",
+            "taboo_words": [
+                "pruva",
+                "aşk tanrısı",
+                "Aşk",
+                "ateş etmek",
+                "hedef"
+            ]
+        },
+        {
+            "keyword": "piyano",
+            "taboo_words": [
+                "anahtarlar",
+                "Oyna",
+                "ulu",
+                "müzik aleti",
+                "müzik"
+            ]
+        },
+        {
+            "keyword": "yağmur",
+            "taboo_words": [
+                "ıslak",
+                "Su",
+                "ahmak ıslatan",
+                "dökün",
+                "şemsiye"
+            ]
+        },
+        {
+            "keyword": "oluklar ve merdivenleri",
+            "taboo_words": [
+                "yazı tahtası",
+                "oyun",
+                "çocuklar",
+                "Tekel",
+                "hayat"
+            ]
+        },
+        {
+            "keyword": "hatırlamak",
+            "taboo_words": [
+                "unutmak",
+                "titanlar",
+                "alamo",
+                "beyin",
+                "tutmak"
+            ]
+        },
+        {
+            "keyword": "kutup ayısı",
+            "taboo_words": [
+                "Arktik",
+                "ekspres",
+                "Çin yemeği",
+                "beyaz",
+                "hayvan"
+            ]
+        },
+        {
+            "keyword": "izlemek",
+            "taboo_words": [
+                "bilgisayar",
+                "ekran",
+                "Görüntüle",
+                "koridor",
+                "bebek"
+            ]
+        },
+        {
+            "keyword": "tim duncan",
+            "taboo_words": [
+                "mahmuzlar",
+                "şampiyon",
+                "Basketbol",
+                "star",
+                "parker"
+            ]
+        },
+        {
+            "keyword": "hükümet",
+            "taboo_words": [
+                "ülke",
+                "siyasetçiler",
+                "Devlet Başkanı",
+                "kongre",
+                "kural"
+            ]
+        },
+        {
+            "keyword": "oyun istasyonu",
+            "taboo_words": [
+                "Oyna",
+                "kontrolör",
+                "xbox",
+                "sony",
+                "video oyunu"
+            ]
+        },
+        {
+            "keyword": "Indiana Jones",
+            "taboo_words": [
+                "Harrison Ford",
+                "akıncılar",
+                "tapınak şakak .. mabet",
+                "film",
+                "üçleme"
+            ]
+        },
+        {
+            "keyword": "magic johnson",
+            "taboo_words": [
+                "hiv",
+                "AIDS",
+                "Los Angeles Lakers",
+                "Basketbol",
+                "star"
+            ]
+        },
+        {
+            "keyword": "brother-in-law",
+            "taboo_words": [
+                "koca",
+                "kadın eş",
+                "ebeveyn",
+                "kardeş",
+                "aile"
+            ]
+        },
+        {
+            "keyword": "buluşmak",
+            "taboo_words": [
+                "birlikte",
+                "plan",
+                "Etkinlik",
+                "telefon etmek",
+                "telefon"
+            ]
+        },
+        {
+            "keyword": "fermuar",
+            "taboo_words": [
+                "kapat",
+                "kapamak",
+                "ceket",
+                "kot",
+                "çanta"
+            ]
+        },
+        {
+            "keyword": "Futbol",
+            "taboo_words": [
+                "Pele",
+                "hedef",
+                "ağ",
+                "ayaklar",
+                "Atmak"
+            ]
+        },
+        {
+            "keyword": "tahmin",
+            "taboo_words": [
+                "gelecek",
+                "öngörülebilirliklerini",
+                "olmak",
+                "sonra",
+                "bilgi"
+            ]
+        },
+        {
+            "keyword": "komik",
+            "taboo_words": [
+                "gülümsemek",
+                "gülmek",
+                "kıkırdama",
+                "şaka",
+                "bilmece"
+            ]
+        },
+        {
+            "keyword": "stop lambası",
+            "taboo_words": [
+                "kırmızı",
+                "yeşil",
+                "sürücü",
+                "Sarı",
+                "kesişim"
+            ]
+        },
+        {
+            "keyword": "kilise",
+            "taboo_words": [
+                "dua etmek",
+                "çan kulesi",
+                "rahip",
+                "liberal",
+                "Hristiyan"
+            ]
+        },
+        {
+            "keyword": "ay",
+            "taboo_words": [
+                "gün",
+                "hafta",
+                "30",
+                "31",
+                "yıl"
+            ]
+        },
+        {
+            "keyword": "kevin garnett",
+            "taboo_words": [
+                "minnesota",
+                "timberwolves",
+                "Basketbol",
+                "star",
+                "Ticaret"
+            ]
+        },
+        {
+            "keyword": "en azından",
+            "taboo_words": [
+                "asgari",
+                "gereklilik",
+                "çoğu",
+                "çıplak",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "acele",
+            "taboo_words": [
+                "acele",
+                "hız",
+                "hızlı",
+                "hızlı",
+                "posta"
+            ]
+        },
+        {
+            "keyword": "yüzyıl",
+            "taboo_words": [
+                "100",
+                "yıl",
+                "onyıl",
+                "milenyum",
+                "2000"
+            ]
+        },
+        {
+            "keyword": "bağ",
+            "taboo_words": [
+                "Internet",
+                "kıvılcım",
+                "kimya",
+                "birlikte",
+                "zaman"
+            ]
+        },
+        {
+            "keyword": "odak",
+            "taboo_words": [
+                "kamera",
+                "kaybetmek",
+                "bulanıklık",
+                "Dikkat",
+                "ford"
+            ]
+        },
+        {
+            "keyword": "romantik",
+            "taboo_words": [
+                "Aşk",
+                "kalp",
+                "tarih",
+                "evlilik",
+                "tek"
+            ]
+        },
+        {
+            "keyword": "büyüyen ağrıları",
+            "taboo_words": [
+                "göstermek",
+                "televizyon",
+                "michael seaver",
+                "güzel yıllarını",
+                "gelişen"
+            ]
+        },
+        {
+            "keyword": "meç",
+            "taboo_words": [
+                "kazanmak",
+                "çıplak",
+                "kayıp",
+                "Zincir",
+                "kürek çekmek"
+            ]
+        },
+        {
+            "keyword": "Florida",
+            "taboo_words": [
+                "Portakal",
+                "yarımada",
+                "durum",
+                "tallahassee",
+                "miami"
+            ]
+        },
+        {
+            "keyword": "hayalet kasaba",
+            "taboo_words": [
+                "Kovboylar",
+                "goldrush",
+                "ıssız",
+                "batı",
+                "Döndürme weeg"
+            ]
+        },
+        {
+            "keyword": "taksi",
+            "taboo_words": [
+                "taksi",
+                "İpucu",
+                "Ulaşım",
+                "Sarı",
+                "New York"
+            ]
+        },
+        {
+            "keyword": "ateş",
+            "taboo_words": [
+                "hasta",
+                "hasta",
+                "termometre",
+                "titreme",
+                "ter"
+            ]
+        },
+        {
+            "keyword": "voleybol",
+            "taboo_words": [
+                "ağ",
+                "oyun",
+                "spor",
+                "plaj",
+                "başak"
+            ]
+        },
+        {
+            "keyword": "kristal",
+            "taboo_words": [
+                "top",
+                "bardak",
+                "mutfak",
+                "fantezi",
+                "hediye"
+            ]
+        },
+        {
+            "keyword": "soda",
+            "taboo_words": [
+                "kok",
+                "pop",
+                "İçmek",
+                "Yapabilmek",
+                "otomat"
+            ]
+        },
+        {
+            "keyword": "reçel",
+            "taboo_words": [
+                "meyve",
+                "trafik",
+                "jöle",
+                "kızarmış ekmek",
+                "ekmek"
+            ]
+        },
+        {
+            "keyword": "konuşma",
+            "taboo_words": [
+                "konuşması",
+                "gülmek",
+                "ağız",
+                "iletişim kurmak",
+                "söylemek"
+            ]
+        },
+        {
+            "keyword": "ofis",
+            "taboo_words": [
+                "Uzay",
+                "sıra",
+                "iş",
+                "zaman",
+                "bilgisayar"
+            ]
+        },
+        {
+            "keyword": "ahtapot",
+            "taboo_words": [
+                "sekiz",
+                "dokungaçlar",
+                "balık",
+                "Su",
+                "okyanus"
+            ]
+        },
+        {
+            "keyword": "gök gürültüsü",
+            "taboo_words": [
+                "ıslak",
+                "yağmur",
+                "Şimşek",
+                "ses",
+                "şemsiye"
+            ]
+        },
+        {
+            "keyword": "take-out",
+            "taboo_words": [
+                "sipariş",
+                "restoran",
+                "teslim",
+                "yemek",
+                "dine"
+            ]
+        },
+        {
+            "keyword": "helikopter pisti",
+            "taboo_words": [
+                "helikopter",
+                "uçak",
+                "havalanmak",
+                "iniş",
+                "müdürlü"
+            ]
+        },
+        {
+            "keyword": "dur işareti",
+            "taboo_words": [
+                "kırmızı",
+                "sekizgen",
+                "sürücü",
+                "araba",
+                "kesişim"
+            ]
+        },
+        {
+            "keyword": "masal",
+            "taboo_words": [
+                "hikaye",
+                "manevi",
+                "masal",
+                "nokta",
+                "short"
+            ]
+        },
+        {
+            "keyword": "doğum",
+            "taboo_words": [
+                "tarih",
+                "hamile",
+                "hastane",
+                "dokuz ay",
+                "yer"
+            ]
+        },
+        {
+            "keyword": "Coca Cola",
+            "taboo_words": [
+                "İçmek",
+                "pepsi",
+                "soda",
+                "içecek",
+                "pop"
+            ]
+        },
+        {
+            "keyword": "Mandıra",
+            "taboo_words": [
+                "ürün",
+                "Süt",
+                "peynir",
+                "inek",
+                "Bakkal"
+            ]
+        },
+        {
+            "keyword": "çakmaktaşları",
+            "taboo_words": [
+                "barney moloz",
+                "fred",
+                "wilma",
+                "karikatür",
+                "eski"
+            ]
+        },
+        {
+            "keyword": "Misket Limonu",
+            "taboo_words": [
+                "tohumlar",
+                "Meyve suyu",
+                "yeşil",
+                "Sarı",
+                "meyve"
+            ]
+        },
+        {
+            "keyword": "Düz",
+            "taboo_words": [
+                "ok",
+                "hat",
+                "paralel",
+                "ileri",
+                "floş"
+            ]
+        },
+        {
+            "keyword": "değer",
+            "taboo_words": [
+                "değer",
+                "para",
+                "nakit akımı",
+                "indirim",
+                "dönem"
+            ]
+        },
+        {
+            "keyword": "Salı",
+            "taboo_words": [
+                "Pazartesi",
+                "Çarşamba",
+                "günler",
+                "iki",
+                "Havva"
+            ]
+        },
+        {
+            "keyword": "bellagio",
+            "taboo_words": [
+                "las vegas",
+                "kumarhane",
+                "otel",
+                "Çeşme",
+                "şerit"
+            ]
+        },
+        {
+            "keyword": "miki fare",
+            "taboo_words": [
+                "orlando",
+                "Donald Duck",
+                "disney",
+                "karakter",
+                "sihirli"
+            ]
+        },
+        {
+            "keyword": "hava",
+            "taboo_words": [
+                "yağmur",
+                "dışarıda",
+                "meteoroloji uzmanı",
+                "tahmin",
+                "tahmin"
+            ]
+        },
+        {
+            "keyword": "nehir",
+            "taboo_words": [
+                "Su",
+                "göl",
+                "Akış",
+                "Mississipi",
+                "koşar"
+            ]
+        },
+        {
+            "keyword": "quiznos",
+            "taboo_words": [
+                "sandviç",
+                "Dükkan",
+                "Gıda",
+                "restoran",
+                "metro"
+            ]
+        },
+        {
+            "keyword": "nazik",
+            "taboo_words": [
+                "zor",
+                "yumuşak",
+                "dikkatli",
+                "break",
+                "dikkatsiz"
+            ]
+        },
+        {
+            "keyword": "Güneş gözlüğü",
+            "taboo_words": [
+                "gökyüzü",
+                "görmek",
+                "açık",
+                "blok",
+                "önlemek"
+            ]
+        },
+        {
+            "keyword": "john Elway",
+            "taboo_words": [
+                "Oyun kurucu",
+                "Sox",
+                "Futbol",
+                "star",
+                "gol"
+            ]
+        },
+        {
+            "keyword": "gargara",
+            "taboo_words": [
+                "fırça",
+                "durulama",
+                "diş",
+                "diş doktoru",
+                "boşluk"
+            ]
+        },
+        {
+            "keyword": "anatomi",
+            "taboo_words": [
+                "vücut",
+                "parçalar",
+                "kemikler",
+                "organlar",
+                "tıbbi"
+            ]
+        },
+        {
+            "keyword": "kayalık",
+            "taboo_words": [
+                "film",
+                "film",
+                "Balboa",
+                "boks",
+                "sylvester Stallone"
+            ]
+        },
+        {
+            "keyword": "tapınak şakak .. mabet",
+            "taboo_words": [
+                "ibadet",
+                "kilise",
+                "dua etmek",
+                "Barış",
+                "Tanrı"
+            ]
+        },
+        {
+            "keyword": "yapay",
+            "taboo_words": [
+                "taş",
+                "Antik",
+                "zemin",
+                "kemikler",
+                "müze"
+            ]
+        },
+        {
+            "keyword": "tükenmez kalem",
+            "taboo_words": [
+                "yazmak",
+                "ağır",
+                "dolma kalem",
+                "silinmez kalem",
+                "çizmek"
+            ]
+        },
+        {
+            "keyword": "Süt",
+            "taboo_words": [
+                "inek",
+                "Mandıra",
+                "tahıl",
+                "kurabiye",
+                "İçmek"
+            ]
+        },
+        {
+            "keyword": "Disney dünyası",
+            "taboo_words": [
+                "Florida",
+                "orlando",
+                "miki fare",
+                "epcot",
+                "sihirli dağ"
+            ]
+        },
+        {
+            "keyword": "senatör",
+            "taboo_words": [
+                "durum",
+                "temsilci",
+                "kongre",
+                "100",
+                "seçilmiş"
+            ]
+        },
+        {
+            "keyword": "Yastık",
+            "taboo_words": [
+                "katman",
+                "yastık",
+                "kanepe",
+                "yumuşak",
+                "kabarık"
+            ]
+        },
+        {
+            "keyword": "x-box",
+            "taboo_words": [
+                "Oyna",
+                "kontrolör",
+                "oyun istasyonu",
+                "microsoft",
+                "video oyunu"
+            ]
+        },
+        {
+            "keyword": "müzik",
+            "taboo_words": [
+                "notlar",
+                "ses",
+                "duymak",
+                "grup",
+                "Kaya"
+            ]
+        },
+        {
+            "keyword": "eldiven",
+            "taboo_words": [
+                "benim",
+                "eller",
+                "beysbol",
+                "O. simpson",
+                "acquit"
+            ]
+        },
+        {
+            "keyword": "zeytin",
+            "taboo_words": [
+                "sıvı yağ",
+                "damak zevki",
+                "Gıda",
+                "Pizza",
+                "hamsi"
+            ]
+        },
+        {
+            "keyword": "taksi şoförü",
+            "taboo_words": [
+                "taksi",
+                "İpucu",
+                "Ulaşım",
+                "Sarı",
+                "New York"
+            ]
+        },
+        {
+            "keyword": "finally",
+            "taboo_words": [
+                "bitiş",
+                "Sonuçta",
+                "son",
+                "başlangıç",
+                "sonra"
+            ]
+        },
+        {
+            "keyword": "Cuma",
+            "taboo_words": [
+                "Cumartesi",
+                "Perşembe",
+                "günler",
+                "iki",
+                "hafta sonu"
+            ]
+        },
+        {
+            "keyword": "Dolu ev",
+            "taboo_words": [
+                "tabakçı",
+                "poker",
+                "Düz",
+                "floş",
+                "olsen ikizleri"
+            ]
+        },
+        {
+            "keyword": "akıllı",
+            "taboo_words": [
+                "beyin",
+                "akıllı",
+                "yaratıcı",
+                "akıl",
+                "iQ"
+            ]
+        },
+        {
+            "keyword": "bağıl",
+            "taboo_words": [
+                "ilişkili",
+                "aile",
+                "üye",
+                "kan",
+                "hala kızı"
+            ]
+        },
+        {
+            "keyword": "sözlük",
+            "taboo_words": [
+                "webster",
+                "tanım",
+                "kelimeler",
+                "alfabe",
+                "kitap"
+            ]
+        },
+        {
+            "keyword": "mimar",
+            "taboo_words": [
+                "oluşturmak",
+                "inşa etmek",
+                "ev",
+                "ev",
+                "yapı"
+            ]
+        },
+        {
+            "keyword": "zaman",
+            "taboo_words": [
+                "izlemek",
+                "saat",
+                "öğle vakti",
+                "gece yarısı",
+                "Dur"
+            ]
+        },
+        {
+            "keyword": "kraliçe",
+            "taboo_words": [
+                "bal arısı",
+                "kral",
+                "Kaya",
+                "sürüklemek",
+                "imtiyaz"
+            ]
+        },
+        {
+            "keyword": "yer",
+            "taboo_words": [
+                "yer",
+                "hedef",
+                "buraya",
+                "Orada",
+                "Kent"
+            ]
+        },
+        {
+            "keyword": "şurup",
+            "taboo_words": [
+                "Gofretler",
+                "akçaağaç",
+                "özsu",
+                "Tereyağı",
+                "Gözleme"
+            ]
+        },
+        {
+            "keyword": "Koltuk değnekleri",
+            "taboo_words": [
+                "bacaklar",
+                "ayaklar",
+                "hasar",
+                "kemik",
+                "yürümek"
+            ]
+        },
+        {
+            "keyword": "konuşma",
+            "taboo_words": [
+                "konuşması",
+                "Taşımak",
+                "konuşma",
+                "insanlar",
+                "arasında"
+            ]
+        },
+        {
+            "keyword": "otopark görevlisi",
+            "taboo_words": [
+                "çok",
+                "arabalar",
+                "sürücü",
+                "günlük",
+                "aylık"
+            ]
+        },
+        {
+            "keyword": "hayalet",
+            "taboo_words": [
+                "korkuttu",
+                "beyaz",
+                "uçmak",
+                "lanetli",
+                "ölü"
+            ]
+        },
+        {
+            "keyword": "yasadışı",
+            "taboo_words": [
+                "yasa",
+                "break",
+                "para cezası",
+                "polis",
+                "yanlış"
+            ]
+        },
+        {
+            "keyword": "Ters eğik çizgi",
+            "taboo_words": [
+                "davulcu",
+                "Şimşek",
+                "Internet",
+                "tuş takımı",
+                "bilgisayar"
+            ]
+        },
+        {
+            "keyword": "hesap makinesi",
+            "taboo_words": [
+                "sayılar",
+                "matematik",
+                "elektronik",
+                "kâğıt",
+                "yumruk"
+            ]
+        },
+        {
+            "keyword": "mendil",
+            "taboo_words": [
+                "burun",
+                "bez",
+                "cep",
+                "silme",
+                "doku"
+            ]
+        },
+        {
+            "keyword": "private",
+            "taboo_words": [
+                "public",
+                "duyurmak",
+                "Tut",
+                "sıkı",
+                "sessiz"
+            ]
+        },
+        {
+            "keyword": "Uğur",
+            "taboo_words": [
+                "cüce cin",
+                "tahıl",
+                "Süt",
+                "hatmi",
+                "yağmur"
+            ]
+        },
+        {
+            "keyword": "güzel kadın",
+            "taboo_words": [
+                "Julia Roberts",
+                "film",
+                "şarkı",
+                "adam",
+                "çirkin"
+            ]
+        },
+        {
+            "keyword": "televizyon",
+            "taboo_words": [
+                "ekran",
+                "program",
+                "izlemek",
+                "filmler",
+                "göstermek"
+            ]
+        },
+        {
+            "keyword": "e-mail",
+            "taboo_words": [
+                "internet üzerinden",
+                "elektronik",
+                "gönderme",
+                "hızlı",
+                "Internet"
+            ]
+        },
+        {
+            "keyword": "başla",
+            "taboo_words": [
+                "Başlat",
+                "bitiş",
+                "önce",
+                "sonra",
+                "son"
+            ]
+        },
+        {
+            "keyword": "citigroup",
+            "taboo_words": [
+                "banka",
+                "ipotek",
+                "borç",
+                "stok, mevcut",
+                "komisyoncu"
+            ]
+        },
+        {
+            "keyword": "Puan",
+            "taboo_words": [
+                "Çalıştırmak",
+                "nokta",
+                "kazanmak",
+                "Spor Dalları",
+                "oyun"
+            ]
+        },
+        {
+            "keyword": "john hancock",
+            "taboo_words": [
+                "imza",
+                "Chicago",
+                "gökdelen",
+                "bina",
+                "Amerika"
+            ]
+        },
+        {
+            "keyword": "prada",
+            "taboo_words": [
+                "şeytan",
+                "çantalar",
+                "ayakkabı",
+                "moda",
+                "Meryl Streep"
+            ]
+        },
+        {
+            "keyword": "yoğurt",
+            "taboo_words": [
+                "dannon",
+                "kültür",
+                "Süt",
+                "Mandıra",
+                "Gıda"
+            ]
+        },
+        {
+            "keyword": "servis aracı",
+            "taboo_words": [
+                "otobüs",
+                "taşımacılık",
+                "havalimanı",
+                "tren",
+                "seyahat"
+            ]
+        },
+        {
+            "keyword": "büyük büyükbaba",
+            "taboo_words": [
+                "nesil",
+                "baba",
+                "anne",
+                "çocuklar",
+                "ebeveyn"
+            ]
+        },
+        {
+            "keyword": "tuz",
+            "taboo_words": [
+                "biber",
+                "shaker",
+                "Baharat",
+                "restoran",
+                "beyaz"
+            ]
+        },
+        {
+            "keyword": "mother-in-law",
+            "taboo_words": [
+                "koca",
+                "kadın eş",
+                "ebeveyn",
+                "kardeş",
+                "aile"
+            ]
+        },
+        {
+            "keyword": "Çekmece",
+            "taboo_words": [
+                "çamaşırlar",
+                "açık",
+                "kapat",
+                "mağaza",
+                "dolap"
+            ]
+        },
+        {
+            "keyword": "cüce cin",
+            "taboo_words": [
+                "altın",
+                "renkler",
+                "yonca",
+                "gökkuşağı",
+                "yağmur"
+            ]
+        },
+        {
+            "keyword": "Jessica Simpson",
+            "taboo_words": [
+                "şarkıcı",
+                "nick Lachey",
+                "dükler hazzard",
+                "ashley",
+                "Hollywood"
+            ]
+        },
+        {
+            "keyword": "quarter-final",
+            "taboo_words": [
+                "eşleşme",
+                "tenis",
+                "destek",
+                "Spor Dalları",
+                "playoff"
+            ]
+        },
+        {
+            "keyword": "Morgan Stanley",
+            "taboo_words": [
+                "banka",
+                "ipotek",
+                "borç",
+                "stok, mevcut",
+                "komisyoncu"
+            ]
+        },
+        {
+            "keyword": "program",
+            "taboo_words": [
+                "Etkinlik",
+                "tarih",
+                "gün",
+                "hafta",
+                "ay"
+            ]
+        },
+        {
+            "keyword": "meyve",
+            "taboo_words": [
+                "elma",
+                "Portakal",
+                "muz",
+                "karpuz",
+                "sebzeler"
+            ]
+        },
+        {
+            "keyword": "Mors kodu",
+            "taboo_words": [
+                "iletişim kurmak",
+                "telefon",
+                "eski",
+                "Tarih",
+                "konuşma"
+            ]
+        },
+        {
+            "keyword": "bina",
+            "taboo_words": [
+                "ev",
+                "gökdelen",
+                "ofis",
+                "iş",
+                "Empire State"
+            ]
+        },
+        {
+            "keyword": "Bahçe",
+            "taboo_words": [
+                "Çiçekler",
+                "bitkiler",
+                "sebzeler",
+                "büyümek",
+                "arka bahçe"
+            ]
+        },
+        {
+            "keyword": "mia hamm",
+            "taboo_words": [
+                "Nomar Garciaparra",
+                "Futbol",
+                "Kadın",
+                "star",
+                "Amerika"
+            ]
+        },
+        {
+            "keyword": "Fasulyeler",
+            "taboo_words": [
+                "korna sesi",
+                "yeşil",
+                "long",
+                "sebze",
+                "refried"
+            ]
+        },
+        {
+            "keyword": "her zaman",
+            "taboo_words": [
+                "ara sıra",
+                "asla",
+                "sonsuzluk",
+                "son",
+                "sonsuza dek"
+            ]
+        },
+        {
+            "keyword": "yeni Zelanda",
+            "taboo_words": [
+                "aşağı altında",
+                "kivi",
+                "Avustralya",
+                "Ragbi",
+                "ülke"
+            ]
+        },
+        {
+            "keyword": "hediye kartı",
+            "taboo_words": [
+                "satın alma",
+                "cüzdan",
+                "en iyi satın alım",
+                "süpermarket",
+                "Noel"
+            ]
+        },
+        {
+            "keyword": "pete Sampras",
+            "taboo_words": [
+                "tenis",
+                "wimbledon",
+                "Amerikan",
+                "star",
+                "tanınmış"
+            ]
+        },
+        {
+            "keyword": "arduvaz",
+            "taboo_words": [
+                "temiz",
+                "boş",
+                "bitmiş",
+                "parça",
+                "tuval"
+            ]
+        },
+        {
+            "keyword": "sister-in-law",
+            "taboo_words": [
+                "koca",
+                "kadın eş",
+                "ebeveyn",
+                "kardeş",
+                "aile"
+            ]
+        },
+        {
+            "keyword": "ev işleri",
+            "taboo_words": [
+                "çöp",
+                "bulaşıklar",
+                "sorumluluk sahibi",
+                "görev",
+                "çocuklar"
+            ]
+        },
+        {
+            "keyword": "uçak",
+            "taboo_words": [
+                "uçmak",
+                "seyahat",
+                "delta",
+                "Birleşik",
+                "havayolu"
+            ]
+        },
+        {
+            "keyword": "fıstık ezmesi",
+            "taboo_words": [
+                "sandviç",
+                "jöle",
+                "jif",
+                "skippy",
+                "Fındık"
+            ]
+        },
+        {
+            "keyword": "bulut",
+            "taboo_words": [
+                "gökyüzü",
+                "beyaz",
+                "kabarık",
+                "dokuz",
+                "yağmur"
+            ]
+        },
+        {
+            "keyword": "Gürcistan",
+            "taboo_words": [
+                "atlanta",
+                "savan",
+                "güney",
+                "şeftali",
+                "karavana"
+            ]
+        },
+        {
+            "keyword": "zengin",
+            "taboo_words": [
+                "zengin",
+                "bill gates",
+                "para",
+                "dolar",
+                "nakit"
+            ]
+        },
+        {
+            "keyword": "bisiklet",
+            "taboo_words": [
+                "tekerlekler",
+                "binmek",
+                "taşımacılık",
+                "pedal",
+                "gidon"
+            ]
+        },
+        {
+            "keyword": "nişanlı",
+            "taboo_words": [
+                "düğün",
+                "evlenmek",
+                "ortak",
+                "eş",
+                "nişan"
+            ]
+        },
+        {
+            "keyword": "banyo",
+            "taboo_words": [
+                "tuvalet",
+                "lavabo",
+                "yıkama",
+                "duş",
+                "temiz"
+            ]
+        }
+    ]
+}
