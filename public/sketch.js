@@ -9,7 +9,7 @@ var arrow ;
 function setup() {
     let cnv = createCanvas(windowWidth /4 * 3, windowHeight / 4 * 3);
     cnv.position(windowWidth / 2 - width / 2, windowHeight / 2 - height / 2 - 50);
-    socket = io.connect('https://taboonline.herokuapp.com:3000');
+    socket = io.connect('http://localhost:3000');
     textFont('Georgia');
     socket.on('receiveWord', receiveWord);
 
