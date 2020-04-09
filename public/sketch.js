@@ -7,9 +7,9 @@ var arrow ;
 
 
 function setup() {
-    let cnv = createCanvas(windowWidth /4 * 3, windowHeight / 3 * 2);
+    let cnv = createCanvas(windowWidth /4 * 3, windowHeight / 4 * 3);
     cnv.position(windowWidth / 2 - width / 2, windowHeight / 2 - height / 2 - 50);
-    socket = io.connect('http://localhost:80');
+    socket = io.connect('http://localhost:3000');
     textFont('Georgia');
     socket.on('receiveWord', receiveWord);
 
@@ -34,6 +34,8 @@ function mouseClicked(event) {
         hide = !hide;
     }
 }
+
+
 
 function draw() {
     background(0);
@@ -73,7 +75,7 @@ function Taboo() {
     this.show = function () {
         if(!hide){
             textAlign(CENTER);
-            textSize(60);
+            textSize(50);
             fill(255, 255, 255);
             var textPosition = 70;
     

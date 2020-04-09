@@ -58,13 +58,6 @@ function newConnection(socket) {
 
 }
 
-function clientsInRoom(roomId) {
-    var clients = io.sockets.adapter.rooms[roomId].sockets;
-    for (client in clients){
-        console.log("member : " + client)
-    }
-}
-
 
 console.log("socket is running ...."); 
 
