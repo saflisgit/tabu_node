@@ -9,7 +9,7 @@ var arrow ;
 function setup() {
     let cnv = createCanvas(windowWidth /4 * 3, windowHeight / 4 * 3);
     cnv.position(windowWidth / 2 - width / 2, windowHeight / 2 - height / 2 - 50);
-    socket = io.connect('http://localhost:3000');
+    socket = io.connect('https://taboonline.herokuapp.com:3000');
     textFont('Georgia');
     socket.on('receiveWord', receiveWord);
 
@@ -32,18 +32,9 @@ function mouseClicked(event) {
         joinRoom();
     }else if(mouseX > 0 && mouseX < width / 3){
         hide = !hide;
+        
     }
 }
-
-function touchStarted(event) {
-    if (mouseX < width && mouseX > width / 3 * 2) {
-        requestWord();
-    }else if(mouseY < height && mouseY > height / 3 * 2){
-        joinRoom();
-    }else if(mouseX > 0 && mouseX < width / 3){
-        hide = !hide;
-    }
-  }
 
 function draw() {
     background(0);
@@ -56,6 +47,7 @@ function joinRoom() {
     socket.emit('joinRoom', roomId);
     requestWord();
 }
+
 
 function requestWord() {
     console.log("word requested .. ");
