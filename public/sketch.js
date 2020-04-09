@@ -35,7 +35,9 @@ function mouseClicked(event) {
     }
 }
 
-
+function touchStarted(event) {
+    mouseClicked(event);
+  }
 
 function draw() {
     background(0);
