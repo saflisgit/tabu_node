@@ -10,6 +10,7 @@ function setup() {
     let cnv = createCanvas(windowWidth /4 * 3, windowHeight / 4 * 3);
     cnv.position(windowWidth / 2 - width / 2, windowHeight / 2 - height / 2 - 50);
     let HOST = location.origin.replace(/^http/, 'ws')
+    console.log(HOST)
     socket = io.connect(HOST);
     textFont('Georgia');
     socket.on('receiveWord', receiveWord);
@@ -76,15 +77,17 @@ function Taboo() {
     this.show = function () {
         if(!hide){
             textAlign(CENTER);
-            textSize(50);
+            let tSize = height/15;
+            textSize(tSize);
             fill(255, 255, 255);
+            
             var textPosition = 70;
     
             text(this.word.keyword.toUpperCase(), width / 2, textPosition);
             textPosition += 30;
     
             this.word.taboo_words.forEach(taboo => {
-                textPosition += 70;
+                textPosition += tSize +10;
                 text(taboo.toUpperCase(), width / 2, textPosition);
             });
             
