@@ -42,12 +42,14 @@ function draw() {
     background(0);
     taboo.show();
     arrow.show();
+
 }
 
 function joinRoom() {
     roomId = roomInput.value();
     socket.emit('joinRoom', roomId);
     requestWord();
+    roomInput.value('');
 }
 
 
@@ -66,7 +68,10 @@ function Arrow() {
     this.show = function () {
         triangle(this.x, this.y - 20, this.x, this.y + 20, this.x + 20, this.y);
         textSize(30);
-        text("JOIN ROOM",width/2, height- 40);
+        if(roomInput.value()){
+            text("JOIN ROOM",width/2, height- 40);
+        }
+        
         ellipse(80, height/2, 40, 40);
     }
 }
