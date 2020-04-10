@@ -18,11 +18,9 @@ function setup() {
     taboo = new Taboo();
     arrow = new Arrow();    
 
-    roomInput = createInput();
-    console.log()
-    
+    roomInput = createInput();  
     roomInput.position(cnv.position().x + width/2 - roomInput.width/2 , cnv.position().y + height );
-
+    roomInput.value('room name');
 
 
 }
