@@ -4,6 +4,10 @@ var roomId;
 var hide = false;
 var taboo ;
 var arrow ; 
+var timer;
+var pause = true;
+var fixTime = 30;
+
 
 
 function setup() {
@@ -14,9 +18,13 @@ function setup() {
     socket = io.connect(HOST);
     textFont('Georgia');
     socket.on('receiveWord', receiveWord);
+    socket.on('startTime', countDown);
+    socket.on('pause', gotPause);
+    socket.on('resume', gotResume);
 
     taboo = new Taboo();
-    arrow = new Arrow();    
+    arrow = new Arrow(); 
+    timer = new Timer();   
 
     roomInput = createInput();  
     roomInput.position(cnv.position().x + width/2 - roomInput.width/2 , cnv.position().y + height );
@@ -29,24 +37,64 @@ function mouseClicked(event) {
     if (mouseX < width && mouseX > width / 3 * 2) {
         requestWord();
     }else if(mouseY < height && mouseY > height / 3 * 2){
-        joinRoom();
+        if(roomInput.value()){
+            joinRoom();
+        }else{
+            if(pause){
+                sendResume()
+            }else{
+                sendPause()
+            }
+        }
+        
     }else if(mouseX > 0 && mouseX < width / 3){
         hide = !hide;
         
     }
 }
 
+function sendPause() {
+    socket.emit('pause');
+}
+function sendResume() {
+    socket.emit('resume');
+}
+
+function gotPause() {
+    pause = true;
+    timer.pause()
+}
+
+function gotResume() {
+    pause = false;
+    timer.resume();
+}
+
+function sendFixTime() {
+    socket.emit('fixTime');
+}
+
+
+function countDown() {
+    timer.time = new Date();
+}
+
 function draw() {
     background(0);
     taboo.show();
     arrow.show();
+    timer.show();
+    timer.update();
 
 }
 
 function joinRoom() {
     roomId = roomInput.value();
-    socket.emit('joinRoom', roomId);
-    requestWord();
+    if(roomId){
+        socket.emit('joinRoom', roomId);
+        requestWord();
+    }
+    
     roomInput.value('');
 }
 
@@ -68,9 +116,54 @@ function Arrow() {
         textSize(30);
         if(roomInput.value()){
             text("JOIN ROOM",width/2, height- 40);
+        }else if(pause){
+            text("START",width/2, height- 40);
         }
         
         ellipse(80, height/2, 40, 40);
+    }
+}
+
+function Timer() {
+    this.time = new Date();
+    this.remainingTime = 0;
+    this.totalTime = fixTime;
+
+    this.show = function () {
+        if(!pause){
+            seconds = this.getSeconds();
+            console.log("total:  " + this.totalTime + " seconds : " + seconds)
+            text( " " + (this.totalTime - seconds), width-60, height -50);
+        }
+    }
+    this.update = function () {
+        if(frameCount % 60 == 0){
+            if(this.getSeconds() >= this.totalTime){
+                sendPause();
+                sendFixTime();
+            }
+        }
+    }
+    this.getSeconds = function () {
+        now = new Date();
+        console.log("now : " + now)
+        console.log("time : " + this.time)
+        seconds = now - this.time;
+        seconds = Math.round(seconds / 1000);
+        
+        return seconds + this.remainingTime;
+    }
+    this.pause = function () {
+        this.remainingTime = fixTime - this.getSeconds();
+    }
+
+    this.resume = function () {
+        this.time = new Date();
+        console.log("fix : " + fixTime )
+        console.log("remain: " + this.remainingTime)
+        
+        this.time = new Date( this.time.getTime() + (fixTime - this.remainingTime) * 1000);
+        this.remainingTime = 0;
     }
 }
 
@@ -84,7 +177,7 @@ function Taboo() {
             textSize(tSize);
             fill(255, 255, 255);
             
-            var textPosition = 70;
+            var textPosition = tSize ;
     
             text(this.word.keyword.toUpperCase(), width / 2, textPosition);
             textPosition += 30;
@@ -96,7 +189,7 @@ function Taboo() {
             
             stroke(255)
             strokeWeight(12.0);
-            line(0, 100, width, 100)
+            line(0, tSize + 20, width, tSize + 20)
             strokeWeight(2.0);
         }
     }

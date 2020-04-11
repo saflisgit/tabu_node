@@ -8,6 +8,7 @@ var socket = require('socket.io');
 var io = socket(server);
 
 const fs = require('fs');
+var fixTime = 60;
 
 let rawdata = fs.readFileSync('wordsTR.json');
 var wordList = JSON.parse(rawdata);
@@ -22,6 +23,9 @@ function newConnection(socket) {
 
     socket.on('joinRoom', joinRoom);
     socket.on('requestWord', requestWord);
+    socket.on('pause', sendPause);
+    socket.on('resume', sendResume);
+    socket.on('fixTime', sendFixTime);
 
     function joinRoom(roomId) {
         if(roomId){
@@ -37,6 +41,7 @@ function newConnection(socket) {
             });
             
             socket.join(roomId);
+            io.sockets.to(roomId).emit('startTime', fixTime);
     
             var roomsUpdated = Object.keys(io.sockets.adapter.sids[socket.id]);
             console.log("rooms now : " + roomsUpdated);
@@ -44,9 +49,31 @@ function newConnection(socket) {
 
     }
 
-    function leaveOthers() {
-
+    function sendPause() {
+        let room = getRoom()
+        console.log("pause sent " + room)
+        io.sockets.to(room).emit('pause');
     }
+
+    function sendFixTime() {
+        let room = getRoom()
+        console.log("time fix sent " + room)
+        io.sockets.to(room).emit('startTime');
+    }
+
+
+    function sendResume() {
+        let room = getRoom()
+        console.log("resume sent " + room)
+        io.sockets.to(room).emit('resume');
+    }
+
+    function getRoom(){
+        var rooms = Object.keys(io.sockets.adapter.sids[socket.id]);
+        rooms.splice(rooms.indexOf(socket.id),1);
+        return rooms[0];
+    }
+
 
     function requestWord(roomId) {
         console.log("sending word ... ");
