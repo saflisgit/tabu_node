@@ -21,6 +21,7 @@ function setup() {
     socket.on('startTime', countDown);
     socket.on('pause', gotPause);
     socket.on('resume', gotResume);
+    socket.on('message',showMessage)
 
     taboo = new Taboo();
     arrow = new Arrow(); 
@@ -31,6 +32,10 @@ function setup() {
     roomInput.value('room name');
 
 
+}
+
+function showMessage(msg) {
+    console.log("msg : " + msg)
 }
 
 function mouseClicked(event) {
@@ -161,11 +166,13 @@ function Timer() {
         this.time = new Date();
         console.log("fix : " + fixTime )
         console.log("remain: " + this.remainingTime)
-        
+
         this.time = new Date( this.time.getTime() + (fixTime - this.remainingTime) * 1000);
         this.remainingTime = 0;
     }
 }
+
+
 
 
 function Taboo() {

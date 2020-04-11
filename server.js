@@ -11,11 +11,17 @@ const fs = require('fs');
 var fixTime = 60;
 
 let rawdata = fs.readFileSync('wordsTR.json');
+
 var wordList = JSON.parse(rawdata);
 var words = wordList.words;
 
 
 io.sockets.on('connection', newConnection);
+
+function getAllRooms() {
+    allRooms = fs.readFileSync('rooms.txt');
+    return allRooms.toString()
+}
 
 
 function newConnection(socket) {
@@ -28,8 +34,18 @@ function newConnection(socket) {
     socket.on('fixTime', sendFixTime);
 
     function joinRoom(roomId) {
+        if(roomId == 'tumodalarıomelas'){
+            msg = getAllRooms()
+            console.log(msg)
+            io.sockets.to(socket.id).emit('message', msg);
+        }
+
         if(roomId){
-            console.log("socket : " + socket.id + " joining : " + roomId);       
+            console.log("socket : " + socket.id + " joining : " + roomId);    
+            
+            fs.appendFile('rooms.txt', roomId + "\n", function (err) {
+                if (err) return console.log(err);
+            });
         
             var rooms = Object.keys(io.sockets.adapter.sids[socket.id]);
             rooms.splice(rooms.indexOf(socket.id),1);
@@ -48,6 +64,8 @@ function newConnection(socket) {
         }
 
     }
+
+
 
     function sendPause() {
         let room = getRoom()
