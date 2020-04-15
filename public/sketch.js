@@ -11,8 +11,8 @@ var fixTime = 30;
 
 
 function setup() {
-    let cnv = createCanvas(windowWidth /4 * 3, windowHeight / 4 * 3);
-    cnv.position(windowWidth / 2 - width / 2, windowHeight / 2 - height / 2 - 50);
+    let cnv = createCanvas(windowWidth /7 * 6, windowHeight / 7 * 6);
+    cnv.position(windowWidth / 2 - width / 2, windowHeight / 2 - height / 2 - 30);
     let HOST = location.origin.replace(/^http/, 'ws')
     console.log(HOST)
     socket = io.connect(HOST);
@@ -27,16 +27,12 @@ function setup() {
     arrow = new Arrow(); 
     timer = new Timer();   
 
-    roomInput = createInput();  
+    roomInput = createInput().attribute('placeholder', 'Room Name');;  
     roomInput.position(cnv.position().x + width/2 - roomInput.width/2 , cnv.position().y + height );
-    roomInput.value('room name');
-
-
+    
 }
 
-function showMessage(msg) {
-    console.log("msg : " + msg)
-}
+
 
 function mouseClicked(event) {
     if (mouseX < width && mouseX > width / 3 * 2) {
@@ -56,6 +52,10 @@ function mouseClicked(event) {
         hide = !hide;
         
     }
+}
+
+function showMessage(msg) {
+    console.log("msg : " + msg)
 }
 
 function sendPause() {
@@ -79,7 +79,6 @@ function sendFixTime() {
     socket.emit('fixTime');
 }
 
-
 function countDown() {
     timer.time = new Date();
 }
@@ -90,7 +89,6 @@ function draw() {
     arrow.show();
     timer.show();
     timer.update();
-
 }
 
 function joinRoom() {
@@ -98,8 +96,7 @@ function joinRoom() {
     if(roomId){
         socket.emit('joinRoom', roomId);
         requestWord();
-    }
-    
+    } 
     roomInput.value('');
 }
 
@@ -176,7 +173,7 @@ function Timer() {
 
 
 function Taboo() {
-    this.word = { keyword: "word", taboo_words: ["taboo", "taboo1", "taboo2"] }
+    this.word = { keyword: "Join", taboo_words: ["Room", "Tap", "Start", "Enjoy", "Game"] }
     this.show = function () {
         if(!hide){
             textAlign(CENTER);
@@ -191,13 +188,14 @@ function Taboo() {
     
             this.word.taboo_words.forEach(taboo => {
                 textPosition += tSize +10;
+                console.log( "width : " + textWidth(taboo));
                 text(taboo.toUpperCase(), width / 2, textPosition);
             });
             
             stroke(255)
-            strokeWeight(12.0);
+            strokeWeight(8.0);
             line(0, tSize + 20, width, tSize + 20)
-            strokeWeight(2.0);
+            strokeWeight(1.4);
         }
     }
 
