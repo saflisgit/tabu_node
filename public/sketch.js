@@ -174,7 +174,7 @@ function Timer() {
 
 
 function Taboo() {
-    this.word = { keyword: deneme, taboo_words: ["Room", "Tap", "Start", "Enjoy", "Game"] }
+    this.word = { keyword: "join", taboo_words: ["Room", "Tap", "Start", "Enjoy", "Game"] }
     this.show = function () {
         if(!hide){
             textAlign(CENTER);
