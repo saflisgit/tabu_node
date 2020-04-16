@@ -44,7 +44,7 @@ function mouseClicked(event) {
             if(pause){
                 sendResume()
             }else{
-                sendPause()
+                //sendPause()
             }
         }
         
@@ -84,12 +84,13 @@ function countDown() {
 }
 
 function draw() {
-    background(0);
+    background(10, 28, 54);
     taboo.show();
     arrow.show();
     timer.show();
     timer.update();
 }
+
 
 function joinRoom() {
     roomId = roomInput.value();
@@ -123,6 +124,15 @@ function Arrow() {
         }
         
         ellipse(80, height/2, 40, 40);
+        if(hide){
+            textSize(30)
+            textAlign(CENTER)
+            text("show",80, height/2 + 60 );
+        }else{
+            textSize(30)
+            textAlign(CENTER)
+            text("hide",80, height/2 - 40 );
+        }
     }
 }
 
@@ -179,7 +189,7 @@ function Taboo() {
             textAlign(CENTER);
             let tSize = height/15;
             textSize(tSize);
-            fill(255, 255, 255);
+            fill(139, 142, 124);
             
             var textPosition = tSize ;
     
@@ -192,7 +202,7 @@ function Taboo() {
                 text(taboo.toUpperCase(), width / 2, textPosition);
             });
             
-            stroke(255)
+            stroke(139, 142, 124)
             strokeWeight(8.0);
             line(0, tSize + 20, width, tSize + 20)
             strokeWeight(1.4);
