@@ -8,6 +8,8 @@ var timer;
 var pause = true;
 var fixTime = 30;
 
+var deneme = "melihsinandaaaa"
+
 
 
 function setup() {
@@ -16,20 +18,30 @@ function setup() {
     let HOST = location.origin.replace(/^http/, 'ws')
     console.log(HOST)
     socket = io.connect(HOST);
-    textFont('Georgia');
+    
     socket.on('receiveWord', receiveWord);
     socket.on('startTime', countDown);
     socket.on('pause', gotPause);
     socket.on('resume', gotResume);
     socket.on('message',showMessage)
 
+    textFont('Georgia');
     taboo = new Taboo();
     arrow = new Arrow(); 
     timer = new Timer();   
 
+/*  passBtn = createButton('pass');
+    passBtn.mousePressed(sendPass);
+    passBtn.position(width/2, height/2)
+*/
     roomInput = createInput().attribute('placeholder', 'Room Name');;  
     roomInput.position(cnv.position().x + width/2 - roomInput.width/2 , cnv.position().y + height );
     
+}
+
+function sendPass() {
+    textSize(40)
+    console.log("pass pressed"  + textWidth(deneme) + " width : " + width)
 }
 
 
@@ -67,7 +79,6 @@ function sendResume() {
 
 function gotPause() {
     pause = true;
-    timer.pause()
 }
 
 function gotResume() {
@@ -88,9 +99,7 @@ function draw() {
     taboo.show();
     arrow.show();
     timer.show();
-    timer.update();
 }
-
 
 function joinRoom() {
     roomId = roomInput.value();
@@ -103,7 +112,6 @@ function joinRoom() {
 
 
 function requestWord() {
-    console.log("word requested .. ");
     socket.emit('requestWord', roomId);
 }
 
@@ -138,44 +146,27 @@ function Arrow() {
 
 function Timer() {
     this.time = new Date();
-    this.remainingTime = 0;
     this.totalTime = fixTime;
 
     this.show = function () {
         if(!pause){
-            seconds = this.getSeconds();
-            console.log("total:  " + this.totalTime + " seconds : " + seconds)
-            text( " " + (this.totalTime - seconds), width-60, height -50);
-        }
-    }
-    this.update = function () {
-        if(frameCount % 60 == 0){
-            if(this.getSeconds() >= this.totalTime){
+            timeLeft =this.totalTime - this.getSeconds();
+            if(timeLeft <= 0){
                 sendPause();
-                sendFixTime();
             }
+            text( " " + timeLeft, width-60, height -50);
         }
     }
+
     this.getSeconds = function () {
         now = new Date();
-        console.log("now : " + now)
-        console.log("time : " + this.time)
         seconds = now - this.time;
         seconds = Math.round(seconds / 1000);
-        
-        return seconds + this.remainingTime;
-    }
-    this.pause = function () {
-        this.remainingTime = fixTime - this.getSeconds();
+        return seconds;
     }
 
     this.resume = function () {
         this.time = new Date();
-        console.log("fix : " + fixTime )
-        console.log("remain: " + this.remainingTime)
-
-        this.time = new Date( this.time.getTime() + (fixTime - this.remainingTime) * 1000);
-        this.remainingTime = 0;
     }
 }
 
@@ -183,22 +174,20 @@ function Timer() {
 
 
 function Taboo() {
-    this.word = { keyword: "Join", taboo_words: ["Room", "Tap", "Start", "Enjoy", "Game"] }
+    this.word = { keyword: deneme, taboo_words: ["Room", "Tap", "Start", "Enjoy", "Game"] }
     this.show = function () {
         if(!hide){
             textAlign(CENTER);
             let tSize = height/15;
-            textSize(tSize);
             fill(139, 142, 124);
             
             var textPosition = tSize ;
-    
+            textSize(tSize);
             text(this.word.keyword.toUpperCase(), width / 2, textPosition);
             textPosition += 30;
     
             this.word.taboo_words.forEach(taboo => {
                 textPosition += tSize +10;
-                console.log( "width : " + textWidth(taboo));
                 text(taboo.toUpperCase(), width / 2, textPosition);
             });
             
