@@ -32,12 +32,13 @@ function newConnection(socket) {
     socket.on('pause', sendPause);
     socket.on('resume', sendResume);
     socket.on('fixTime', sendFixTime);
+    socket.on('leaveRoom',leaveRoom);
 
     function joinRoom(roomId) {
         if(roomId == 'tumodalarıomelas'){
             msg = getAllRooms()
             console.log(msg)
-            io.sockets.to(socket.id).emit('message', msg);
+            
         }
 
         if(roomId){
@@ -57,6 +58,7 @@ function newConnection(socket) {
             });
             
             socket.join(roomId);
+            io.sockets.to(socket.id).emit('join');
             io.sockets.to(roomId).emit('startTime', fixTime);
     
             var roomsUpdated = Object.keys(io.sockets.adapter.sids[socket.id]);
@@ -77,6 +79,13 @@ function newConnection(socket) {
         let room = getRoom()
         console.log("time fix sent " + room)
         io.sockets.to(room).emit('startTime');
+    }
+
+    function leaveRoom() {
+        let room = getRoom();
+        console.log("one left room : " + room);
+        socket.leave(room);
+        io.sockets.to(socket.id).emit('leave')
     }
 
 
