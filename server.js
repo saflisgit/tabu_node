@@ -8,7 +8,7 @@ var socket = require('socket.io');
 var io = socket(server);
 
 const fs = require('fs');
-var fixTime = 60;
+var fixTime = 10;
 
 let rawdata = fs.readFileSync('wordsTR.json');
 
@@ -59,8 +59,7 @@ function newConnection(socket) {
             
             socket.join(roomId);
             io.sockets.to(socket.id).emit('join');
-            io.sockets.to(roomId).emit('startTime', fixTime);
-    
+            io.sockets.to(roomId).emit('resetGame');
             var roomsUpdated = Object.keys(io.sockets.adapter.sids[socket.id]);
             console.log("rooms now : " + roomsUpdated);
         }
@@ -69,10 +68,10 @@ function newConnection(socket) {
 
 
 
-    function sendPause() {
+    function sendPause(nextTeam) {
         let room = getRoom()
-        console.log("pause sent " + room)
-        io.sockets.to(room).emit('pause');
+        console.log("pause sent " + room + "next team : " + nextTeam)
+        io.sockets.to(room).emit('pause',nextTeam);
     }
 
     function sendFixTime() {

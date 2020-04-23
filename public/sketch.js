@@ -7,8 +7,14 @@ var arrow ;
 var timer;
 var pause = true;
 var joined = false;
-var fixTime = 30;
+var fixTime = 10;
+var anti = {};
 var cnv;
+var team = 'blue';
+var turn = 'blue';
+var bgColor = [10, 28, 54];
+var turnTaken = false;
+var activePlayer = false;
 
 
 
@@ -20,66 +26,98 @@ function setup() {
     socket = io.connect(HOST);
     
     socket.on('receiveWord', receiveWord);
-    socket.on('startTime', countDown);
+    socket.on('startTime', gotStart);
     socket.on('pause', gotPause);
     socket.on('resume', gotResume);
     socket.on('message',showMessage)
     socket.on('join',gotJoin);
     socket.on('leave',gotLeave);
+    socket.on('resetGame',resetGame);
+
+    anti['red'] = 'blue';
+    anti['blue'] = 'red';
 
     textFont('Georgia');
     taboo = new Taboo();
     arrow = new Arrow(); 
     timer = new Timer();   
 
-/*  passBtn = createButton('pass');
-    passBtn.mousePressed(sendPass);
-    passBtn.position(width/2, height/2)
-*/
     roomInput = createInput().attribute('placeholder', 'Room ID');
     roomInput.position(cnv.position().x + width/2 - roomInput.width/2 , cnv.position().y + height/2 - roomInput.height/2 )    
 }
 
-function sendPass() {
-    textSize(40)
-    console.log("pass pressed"  + textWidth(deneme) + " width : " + width)
+function draw() {
+    
+    background(bgColor);
+    taboo.show();
+    arrow.show();
+    timer.show();
 }
 
 
-
 function mouseClicked(event) {
-    if (mouseX < width && mouseX > width / 3 * 2) {
+    if (mouseX < width && mouseX > width / 3 * 2 && activePlayer) {
         requestWord();
     }else if(mouseY < height && mouseY > height / 3 * 2){
         if(roomInput.value()){
             joinRoom();
         }else{
-            if(pause){
-                sendResume()
-            }else{
-                //sendPause()
+            if(pause && turn == team){
+                sendResume();
+                requestWord(); 
+                   
             }
         }
         
-    }else if(mouseX > 0 && mouseX < width / 3){
-        hide = !hide;
+    }else if(dist(mouseX,mouseY,80, height/2)< 40){
+        if(!joined){
+            if(team === 'red'){
+                team = 'blue'
+                bgColor = [10, 28, 54];
+            }else{
+                team = 'red'
+                bgColor = [165, 42, 42];
+            }
+        }
         
     }
 }
+
+
+function resetGame() {
+    turn = 'blue';
+    turnTaken = false;
+    activePlayer = false;
+    pause = true;
+    taboo.word = { keyword: "New", taboo_words: ["Player", "Joined", "Game", "Restared!!"] }
+}
+
+function gotTurnTaken() {
+    turnTaken = true;
+}
+
 
 function showMessage(msg) {
     console.log("msg : " + msg)
 }
 
-function sendPause() {
-    socket.emit('pause');
+function sendPause(nextTeam) {
+    socket.emit('pause', nextTeam);
 }
 function sendResume() {
-    socket.emit('resume');
+    if(turn == team && !turnTaken){
+        socket.emit('resume');
+        activePlayer = true;
+    }
+    
 }
 
-function gotPause() {
+function gotPause(nextTeam) {
     pause = true;
+    turnTaken = false;
+    activePlayer = false;
+    turn = nextTeam;
+
 }
 
 function gotResume() {
@@ -91,16 +129,9 @@ function sendFixTime() {
     socket.emit('fixTime');
 }
 
-function countDown() {
+function gotStart() {
     timer.time = new Date();
-}
-
-function draw() {
-    background(10, 28, 54);
-    taboo.show();
-    arrow.show();
-    timer.show();
-
+    
 }
 
 function joinRoom() {
@@ -110,6 +141,8 @@ function joinRoom() {
     } 
     roomInput.value('');
 }
+
+
 
 function gotJoin() {
     joined = true;
@@ -147,15 +180,7 @@ function Arrow() {
         }
         
         ellipse(80, height/2, 40, 40);
-        if(hide && joined){
-            textSize(30)
-            textAlign(CENTER)
-            text("show",80, height/2 + 60 );
-        }else if(!hide && joined){
-            textSize(30)
-            textAlign(CENTER)
-            text("hide",80, height/2 - 40 );
-        }
+
     }
 }
 
@@ -166,8 +191,8 @@ function Timer() {
     this.show = function () {
         if(!pause){
             timeLeft =this.totalTime - this.getSeconds();
-            if(timeLeft <= 0){
-                sendPause();
+            if(timeLeft <= 0 && activePlayer){
+                sendPause(anti[team]);
             }
             text( " " + timeLeft, width-60, height -50);
         }
@@ -191,7 +216,7 @@ function Timer() {
 function Taboo() {
     this.word = { keyword: "Hey!", taboo_words: ["This", "Is", "An", "Idle", "Word"] }
     this.show = function () {
-        if(!hide){
+        if(!hide && (activePlayer || turn != team)){
             textAlign(CENTER);
             let tSize = height/15;
             fill(255, 255, 255);
@@ -210,6 +235,8 @@ function Taboo() {
             strokeWeight(8.0);
             line(0, tSize + 20, width, tSize + 20)
             strokeWeight(1.4);
+        }else if( !hide && turn === team ){
+            text(turn.toUpperCase() + " team's turn", width / 2, height/2);
         }
     }
 
