@@ -7,7 +7,7 @@ var arrow ;
 var timer;
 var pause = true;
 var joined = false;
-var fixTime = 10;
+var fixTime = 60;
 var anti = {};
 var cnv;
 var team = 'blue';
