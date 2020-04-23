@@ -95,9 +95,15 @@ function newConnection(socket) {
     }
 
     function getRoom(){
-        var rooms = Object.keys(io.sockets.adapter.sids[socket.id]);
-        rooms.splice(rooms.indexOf(socket.id),1);
-        return rooms[0];
+        try {
+            var rooms = Object.keys(io.sockets.adapter.sids[socket.id]);
+            rooms.splice(rooms.indexOf(socket.id),1);
+            return rooms[0];
+        } catch (error) {
+            return null;
+        }
+        
+        
     }
 
 

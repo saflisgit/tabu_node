@@ -55,7 +55,8 @@ function draw() {
 }
 
 
-function mouseClicked(event) {
+function touchStarted(event) {
+    if (event.type == 'touchstart') return true;
     if (mouseX < width && mouseX > width / 3 * 2 && activePlayer) {
         requestWord();
     }else if(mouseY < height && mouseY > height / 3 * 2){
@@ -230,12 +231,19 @@ function Taboo() {
             
             var textPosition = tSize ;
             textSize(tSize);
+            if(this.word.keyword.length >= 10){
+                textSize(tSize/3 * 2);
+            }
             text(this.word.keyword.toUpperCase(), width / 2, textPosition);
             textPosition += 30;
-    
+            textSize(tSize);
             this.word.taboo_words.forEach(taboo => {
                 textPosition += tSize +10;
+                if(taboo.length >= 10){
+                    textSize(tSize/3 * 2);
+                }
                 text(taboo.toUpperCase(), width / 2, textPosition);
+                textSize(tSize);
             });
             
             stroke(255, 255, 255)
