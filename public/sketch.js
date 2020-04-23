@@ -56,7 +56,7 @@ function draw() {
 
 
 function touchStarted(event) {
-    if (event.type == 'touchstart') return true;
+    if (event.type != 'touchstart') return true;
     if (mouseX < width && mouseX > width / 3 * 2 && activePlayer) {
         requestWord();
     }else if(mouseY < height && mouseY > height / 3 * 2){
