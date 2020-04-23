@@ -59,17 +59,13 @@ function mouseClicked(event) {
     if (mouseX < width && mouseX > width / 3 * 2 && activePlayer) {
         requestWord();
     }else if(mouseY < height && mouseY > height / 3 * 2){
-        if(roomInput.value()){
-            joinRoom();
-        }else{
-            if(pause && turn == team){
+            if(pause && turn == team && joined){
                 sendResume();
                 requestWord(); 
                    
-            }
-        }
+            } 
         
-    }else if(dist(mouseX,mouseY,80, height/2)< 40){
+    }else if(dist(mouseX,mouseY,80, height/2)< 60){
         if(!joined){
             if(team === 'red'){
                 team = 'blue'
@@ -80,6 +76,10 @@ function mouseClicked(event) {
             }
         }
         
+    }else if(dist(mouseX,mouseY,width/2, height/2 + 80) < 150) {
+        if(roomInput.value()){
+            joinRoom();
+        }
     }
 }
 
@@ -174,12 +174,19 @@ function Arrow() {
         textSize(30);
         textAlign(CENTER)
         if(roomInput.value() || !joined){
-            text("JOIN ROOM",width/2, height- 40);
+            text("JOIN ROOM",width/2, height/2 + 80);
         }else if(pause){
             text("START",width/2, height- 40);
         }
         
         ellipse(80, height/2, 40, 40);
+        if(!joined){
+            fill(bgColor)
+            ellipse(80, height/2, 20, 20);
+            fill(255)
+            textSize(30)
+            text(team.toUpperCase(),80, height/2 + 50);
+        }
 
     }
 }
