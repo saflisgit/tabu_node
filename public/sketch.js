@@ -9,10 +9,13 @@ var pause = true;
 var joined = false;
 var fixTime = 60;
 var anti = {};
+var bgAnti = {};
 var cnv;
 var team = 'blue';
 var turn = 'blue';
 var bgColor = [10, 28, 54];
+var bgBlue = [10, 28, 54];
+var bgRed = [165, 42, 42];
 var turnTaken = false;
 var activePlayer = false;
 
@@ -37,6 +40,9 @@ function setup() {
     anti['red'] = 'blue';
     anti['blue'] = 'red';
 
+    bgAnti['red'] = [10, 28, 54];
+    bgAnti['blue'] = [165, 42, 42];
+
     textFont('Georgia');
     taboo = new Taboo();
     arrow = new Arrow(); 
@@ -56,7 +62,8 @@ function draw() {
 
 
 function touchStarted(event) {
-    if (event.type != 'touchstart') return true;
+    if (event.type != 'mousedown' && event.sourceCapabilities.firesTouchEvents) return true;
+
     if (mouseX < width && mouseX > width / 3 * 2 && activePlayer) {
         requestWord();
     }else if(mouseY < height && mouseY > height / 3 * 2){
@@ -68,13 +75,9 @@ function touchStarted(event) {
         
     }else if(dist(mouseX,mouseY,80, height/2)< 60){
         if(!joined){
-            if(team === 'red'){
-                team = 'blue'
-                bgColor = [10, 28, 54];
-            }else{
-                team = 'red'
-                bgColor = [165, 42, 42];
-            }
+            bgColor = bgAnti[team];
+            team = anti[team]
+            
         }
         
     }else if(dist(mouseX,mouseY,width/2, height/2 + 80) < 150) {
@@ -131,8 +134,7 @@ function sendFixTime() {
 }
 
 function gotStart() {
-    timer.time = new Date();
-    
+    timer.time = new Date(); 
 }
 
 function joinRoom() {
@@ -142,8 +144,6 @@ function joinRoom() {
     } 
     roomInput.value('');
 }
-
-
 
 function gotJoin() {
     joined = true;
@@ -176,8 +176,13 @@ function Arrow() {
         textAlign(CENTER)
         if(roomInput.value() || !joined){
             text("JOIN ROOM",width/2, height/2 + 80);
-        }else if(pause){
-            text("START",width/2, height- 40);
+        }else if(pause ){
+            if(team==turn){
+                text("START",width/2, height- 40);
+            }else{
+                text(turn.toUpperCase() + "'s turn",width/2, height - 50);
+            }
+            
         }
         
         ellipse(80, height/2, 40, 40);
@@ -187,7 +192,11 @@ function Arrow() {
             fill(255)
             textSize(30)
             text(team.toUpperCase(),80, height/2 + 50);
+        }else if(!activePlayer && !pause && !(team==turn)){
+            textSize(30)
+            text(turn.toUpperCase() + "'s turn",width/2, height - 50);
         }
+        
 
     }
 }
@@ -218,9 +227,6 @@ function Timer() {
     }
 }
 
-
-
-
 function Taboo() {
     this.word = { keyword: "Hey!", taboo_words: ["This", "Is", "An", "Idle", "Word"] }
     this.show = function () {
@@ -235,16 +241,19 @@ function Taboo() {
                 textSize(tSize/3 * 2);
             }
             text(this.word.keyword.toUpperCase(), width / 2, textPosition);
-            textPosition += 30;
+            textPosition += textSize() + 40;
             textSize(tSize);
+            words = "";
             this.word.taboo_words.forEach(taboo => {
-                textPosition += tSize +10;
                 if(taboo.length >= 10){
                     textSize(tSize/3 * 2);
-                }
-                text(taboo.toUpperCase(), width / 2, textPosition);
-                textSize(tSize);
+                }          
+                words += taboo.toUpperCase() + "\n"
+                
             });
+            text(words, width / 2, textPosition);
+            
+            
             
             stroke(255, 255, 255)
             strokeWeight(8.0);
