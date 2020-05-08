@@ -60,17 +60,9 @@ function draw() {
     timer.show();
 }
 
-function mouseClicked(event) {
-    
-    if(navigator.userAgent.includes("irefox")){
-        touchStarted(event);
-    }
-}
 function touchStarted(event) {
     
-    if(!navigator.userAgent.includes("irefox")){
-        if (event.type != 'mousedown' && event.sourceCapabilities.firesTouchEvents) return true;
-    }
+ if (event.type != 'mousedown' && event.sourceCapabilities.firesTouchEvents) return true;
 
     if (mouseX < width && mouseX > width / 3 * 2 && activePlayer) {
         requestWord();
